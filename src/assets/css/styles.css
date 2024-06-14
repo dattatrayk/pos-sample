@@ -1,0 +1,311 @@
+
+.contactbannerimg{
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+}
+
+
+
+.cardstyles{
+    background-color: white;
+    width: 55%;
+    height: 250px;
+    border-radius: 12px;
+    padding: 35px;
+}
+
+
+
+.imgstyle{
+    /* float: right; */
+    /* margin-top: -250; */
+    
+    height: 290px;
+    object-fit: cover;
+    border-radius: 0px 12px 12px 0px;
+    position: relative;
+    width: 571px;
+}
+
+#sales-team > .form-control{
+    height: 40px;   
+}
+ .pad-10{
+        padding: 0px 15px;
+    }
+
+
+.topblock{
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 12px 0px 0px 12px;
+    padding-left: 60px;
+}
+
+.midblocks{
+    background-color: rgb(255 255 255);
+    border-radius: 12px;
+    /*height: 271px;*/
+}
+
+.icon1{
+    width: 70px;
+    height: 70px;
+    background-color: #F9E5E8;
+    border-radius: 11px;
+}
+
+.icon-image1{
+    width: 30px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: 21px;
+
+}
+
+
+.block-icon1{
+    background-color: #F9E5E8;
+    width: fit-content;
+    position: relative;
+    /*top: 35px;
+    left: 32px;*/
+    border-radius: 5px;
+    
+}
+
+
+.icon-text{
+    width: 350px;
+    position: relative;
+    left: 138px;
+    top: -51px;
+}
+
+.tinyicon{
+    height: 15px;
+    width: 15px;
+    margin: 11px;
+}
+
+.form{
+    background-color: white;
+    border-radius: 12px;
+    padding: 40 0 40 40;
+    margin-top: 15px;
+    height: 562;
+}
+
+.contactusform-right{
+
+background-color: black;
+
+color: white;
+
+/* width: 570px; */
+
+/* height: 366px; */
+
+position: relative;
+
+/*top: -436ō;*/
+
+/* left: 620; */
+
+border-radius: 12px;
+
+padding: 30;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #C8102E;
+    border-color: #C8102E;
+}
+
+
+.sidebar{
+    height: 564px;
+    width: 150;
+    background-color: #C8102E;
+    position: absolute;
+    border-radius: 0px 12px 12px 0px;
+    float: right;
+    top: -80px;
+    right: -6%;
+}
+
+
+
+
+/* @media screen and (max-width: 900px) {}
+.sidebar{
+   
+} */
+
+
+
+
+.spans{
+    margin: 6px;
+    padding: 7px;
+}
+
+.spans img{
+    margin: 5;
+}
+
+
+
+
+@media screen and (max-width: 900px) {
+
+.contactbannerimg{
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.contactusform-right{
+    
+    background-color: black;
+    /*height: 300px;*/
+
+    position: relative;
+   
+    padding: 20;
+    /*width: 293px;*/
+  
+}
+.imgstyle{
+    /* float: right; */
+    /* margin-top: -250; */
+    width: 290px;
+    height: 100px;
+    margin-right: 19px;
+    object-fit: cover;
+    /* border-radius: 0px 12px 12px 0px; */
+    position: relative;
+    left: 14px;
+    border-radius: unset;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 900px) {
+
+    .page-title{
+        font-size: 37px;
+    }
+.topblock{
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 12px 12px 0px 0px;
+    
+}
+
+.midblocks {
+    background-color: rgb(255 255 255);
+    border-radius: 12px;
+ 
+    height: 306px;
+    margin-bottom: 20px;}
+
+    .icon-text {
+        width: 216px;
+        position: relative;
+        left: 55px;
+        top: -29px;
+    
+    }
+
+.block-icon1{
+    background-color: #F9E5E8;
+    width: fit-content;
+    position: relative;
+    top: 12px;
+    left: 0px;
+    border-radius: 5px;
+}
+span{
+    word-wrap: break-word; 
+}
+.icon1{
+    width: 44px;
+    height: 44px;
+    background-color: #F9E5E8;
+    border-radius: 11px;
+    margin-bottom: 21px;
+}
+
+.icon-image1 {
+    width: 22px;
+    height: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: 13px;
+}
+
+  }
+
+
+ 
+
+  .my-icon1 {
+    padding-right: calc(1.5em + .75rem);
+    background-image: url('../images/user\ \(7\)\ \(1\).svg');
+    background-repeat: no-repeat;
+    background-position: center left calc(.375em + .1875rem);
+    background-size: calc(0.68em + 0.250rem) calc(.65em + .375rem);
+}
+
+.my-icon2 {
+    padding-right: calc(1.5em + .75rem);
+    background-image: url('../images/email\ \(4\).svg');
+    background-repeat: no-repeat;
+    background-position: center left calc(.375em + .1875rem);
+    background-size: calc(0.68em + 0.250rem) calc(.65em + .375rem);
+}
+
+.my-icon3 {
+    padding-right: calc(1.5em + .75rem);
+    background-image: url('../images/phone-alt\ \(1\).svg');
+    background-repeat: no-repeat;
+    background-position: center left calc(.375em + .1875rem);
+    background-size: calc(0.68em + 0.250rem) calc(.65em + .375rem);
+}
+
+
+.my-icon4 {
+    padding-right: calc(1.5em + .75rem);
+    background-image: url('../images/Speech_Bubble_48_\ \(1\).svg');
+    background-repeat: no-repeat;
+    background-position: center left calc(.375em + .1875rem);
+    background-size: calc(0.68em + 0.250rem) calc(.65em + .375rem);
+  
+}
+
+

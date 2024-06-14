@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <filter id="Rectangle_1025" x="-1.5" y="-1.5" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#7d7373" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_10">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_10" data-name="Artboard – 10" clip-path="url(#clip-Artboard_10)">
+    <rect width="44" height="44" fill="#fff"/>
+    <g id="popup-info-btn.19db3edf" transform="translate(-1024 1709) rotate(-90)">
+      <g transform="matrix(0, 1, -1, 0, 1709, 1024)" filter="url(#Rectangle_1025)">
+        <g id="Rectangle_1025-2" data-name="Rectangle 1025" transform="translate(2 42) rotate(-90)" fill="#fff" stroke="#e4e4e4" stroke-width="2">
+          <rect width="40" height="40" rx="10" stroke="none"/>
+          <rect x="1" y="1" width="38" height="38" rx="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6770" data-name="Group 6770" transform="translate(-5 -1)">
+        <circle id="Ellipse_533" data-name="Ellipse 533" cx="2.5" cy="2.5" r="2.5" transform="translate(1690 1036)" fill="#c8102e"/>
+        <circle id="Ellipse_534" data-name="Ellipse 534" cx="2.5" cy="2.5" r="2.5" transform="translate(1690 1045)" fill="#c8102e"/>
+        <circle id="Ellipse_535" data-name="Ellipse 535" cx="2.5" cy="2.5" r="2.5" transform="translate(1690 1054)" fill="#c8102e"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,3739 @@
+@media screen and (min-width:575px) {
+    .custom-modal-width { max-width: 991px; margin: 6.75rem auto; }
+}
+@media screen and (min-width: 768) {
+    .first-row-img img { width: -webkit-fill-available; margin-left: -32px; display: block; }
+    .fb-btn-login { float: right; margin: 0; width: -webkit-max-content; width: -moz-max-content; width: max-content; }
+    .gl-btn-login { margin: 0; width: -webkit-max-content; width: -moz-max-content; width: max-content; }
+}
+@media only screen and (min-width: 1200px) {
+    .border-xl-left { border-left: 1px solid rgb(0 0 0 / 10%); }
+}
+@media only screen and (min-width: 1480px) {
+    .container-fluid{ max-width:1400px; }
+    /* 
+    .container{ max-width:1400px; } */
+
+    /* .container-fluid{ max-width:1400px; } */
+    .container{ max-width:1170px; }
+}
+@media only screen and (min-width: 1680px) {
+    .container-fluid,.container{max-width:1630px;}
+}
+@media only screen and (max-width: 1680px) {
+   
+    ul.rental-steps-wrap li {
+        margin-left:40px;
+   }
+    .pickup-location-box-wrap .pickup-location-input {
+        width: 255px;
+   }
+    .pickup-location-box-wrap .pickup-location-input.group-input {
+        width: 280px;
+   }
+    .pickup-location-offer {
+        padding: 14px 35px;
+   }
+    .pickup-location-box-wrap .show-offer-btn-wrap {
+        width: 160px;
+   }
+    .offer-filter-wrap h3 {
+        margin-right: 30px;
+   }
+    .vehicle-box-design {
+        max-width: 321px;
+   }
+    .vehicle-box-design .vehicle-image-main {
+        width: 100%;
+        height: auto;
+   }
+    .featured-rent-price-radio .featured-rent-radio + .featured-rent-radio {
+        margin-left: 20px;
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 10px;
+        padding-left: 10px;
+   }
+    .feature-vehicle-box .feature-icon img {
+        margin-right: 5px;
+   }
+    ul.rental-steps-wrap li {
+        margin-left:40px;
+   }
+    .pickup-location-box-wrap .pickup-location-input {
+        width: 255px;
+   }
+    .pickup-location-box-wrap .pickup-location-input.group-input {
+        width: 280px;
+   }
+    .pickup-location-offer {
+        padding: 14px 35px;
+   }
+    .pickup-location-box-wrap .show-offer-btn-wrap {
+        width: 160px;
+   }
+    .offer-filter-wrap h3 {
+        margin-right: 28px;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 160px;
+   }
+    .vehicle-box-design {
+        max-width: 321px;
+   }
+    .vehicle-box-design .vehicle-image-main {
+        width: 100%;
+        height: auto;
+   }
+    .featured-rent-price-radio .featured-rent-radio + .featured-rent-radio {
+        margin-left: 20px;
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 5px;
+        padding-left: 5px;
+   }
+    .feature-vehicle-box .feature-icon img {
+        margin-right: 5px;
+   }
+   #reserve .rental-steps-wrap a:before {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 17px;
+    }
+    #reserve .rental-steps-wrap {padding-top: 26px;}
+    .promocode-applied-box {font-size: 16px;}
+    #reserve h2.text-16.font-bold {font-size: 14px;}
+    .supportUpcoming-rental-box h5 {font-size: 24px;}
+    .promocode-applied-box {font-size: 16px;}
+    #reserve h2.text-16.font-bold {
+        font-size: 14px;
+    }
+    .supportUpcoming-rental-box h5 {font-size: 24px;}
+    .supportUpcoming-rental-box .rounded-bttn,#my-mob .rounded-bttn {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 10px 25px;
+    }
+    .modify-reservation-border h4.text-16 {font-size: 15px;}
+}
+@media only screen and (max-width: 1479px) {
+    .select-wrap-dropdown.select-wrap-section-main .return-pickup-wrap {max-width: 120px;}
+   .StationDetails__wrapper {padding: 35px 0px;min-height:170px;}
+   .pickup-dropdown-box-design{max-height:320px;}
+   .NearByLocation__currentLocation {font-size: 14px;line-height: 1.2;}
+    .select-wrap-dropdown.select-wrap-section-main .select-wrap-section {
+        padding-left: 10px;
+       max-width: calc(100% - 150px);
+       width:100%;
+   }
+    
+    .StationHistory__title {font-size: 16px;}
+    .StationHistory__title1, .StationHistory__title2 {font-size: 15px;line-height: 1.4;}
+    .StationHistory__stationInfo {max-height: 265px;}
+    .StationDetails__wrapper {padding: 16px 0px;}
+    .StationDetails__wrapper h3.StationDetails__headline {font-size: 20px;}
+    h3.StationDetails__headline a.text-red {font-size: 12px;}
+    .StationDetails__wrapper .StationDetails__subline {font-size: 14px;line-height: 1.2;}
+    .StationDetails__openings .OpeningHours__times {font-size: 14px;}
+    .search-box-wrap .select-wrap-dropdown a {
+        max-width: 160px;
+        overflow: hidden;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+   }
+   .return-pickup-location-wrap.select-wrap-dropdown.select-wrap-section-main>.select-wrap-section>.dropdown-toggle{max-width: 160px;} 
+    .search-box-wrap .select-wrap-dropdown .pickup-return-date-wrap > * {
+        padding: 0 5px;
+   }
+    .download-app-wrap > a + a {
+        margin-left: 20px;
+   }
+    .subscriber-container form{
+       max-width: 530px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        padding: 0 5px;
+        max-width: 330px;
+   }
+    .pickup-return-date-wrap label {
+        font-size: 14px;
+        line-height: 1.3;
+   }
+    .search-box-wrap .select-wrap-dropdown a {
+        font-size: 14px;
+		line-height:1.2;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        padding-left: 10px;
+        margin-left: 10px;
+        max-width: 150px;
+   }
+    .download-app-wrap .download-app-anchor {
+        padding-left: 40px;
+        margin-right: 40px;
+   }
+    .pickup-return-date-wrapper .pickup-dropdown-box-left {
+        padding-left: 0;
+        padding-right: 0;
+   }
+    .pickup-dropdown-days-wrap1,.pickup-dropdown-days-wrap {
+        padding-top: 40px;
+   }
+    .pickup-dropdown-days-wrap {
+        width: 11%;
+        padding-left: 10px;
+        padding-right: 10px;
+   }
+    .pickup-dropdown-days-wrap1 {
+        padding-left: 10px;
+        padding-right: 10px;
+   }
+   .subscriber-container form {max-width: 450px;}
+   .pickup-return-date-wrapper .pickup-dropdown-box-left {padding:0 30px;}
+   .pickup-return-date-wrapper .pickup-dropdown-box-left {max-width:740px;}
+   .pickup-time-dropdown-container {width: calc(100% - 790px);margin-left: auto;}
+    .pickup-location-input.group-input {margin-top: 0;}
+    body .react-google-flight-datepicker .dialog-date-picker {
+        width: 100%;
+        max-width:740px;
+    }
+    body .react-google-flight-datepicker .calendar-wrapper {max-height: 290px;min-height: auto;}
+    body .react-google-flight-datepicker .day {
+        width:41px;
+        height:41px;
+        font-size: 14px;
+    }
+    
+    body .react-google-flight-datepicker .day::after {
+        height:41px;
+        width:41px;
+    }
+    .pikcup-time-list-wrap ul {max-height: 200px;}
+
+    .more-car-slider-wrap .slide-arrow { left: 0; }
+    .more-car-slider-wrap .slide-arrow.next-arrow { right: 0; }
+    .subscriber-text-right { top: -40px; }
+    .subscriber-text-right img { width: 600px; }
+    .new-more-car-slider-wrap .next-arrow.slick-arrow { right: -30px; }
+    .what-new-sectio .row { margin: 0 -15px; }
+    .what-new-sectio .row > div { padding: 0 15px; }
+    .footer-nav-menu-wrap .nav-item-ul > li { width: 30%; }
+    .footer-nav-menu-wrap .nav-item-ul { justify-content: space-between; }
+
+
+    .select-wrap-dropdown.select-wrap-section-main { max-width: 376px;justify-content:space-between;}
+    .select-wrap-dropdown.select-wrap-section-main .select-wrap-section { max-width:48%;padding-left: 0;}
+    .return-pickup-location-wrap.select-wrap-dropdown.select-wrap-section-main>.select-wrap-section>.dropdown-toggle { max-width: 100%; }
+
+    .right-search-box-col-wrap .pickup-date-select-wrap{max-width: 375px;}
+
+    .rvrsn-title-wrap-box > div { width: 100%; }
+    .rvrsn-title-wrap-box > div + div { margin-top: 12px; }
+
+    .padding-100{padding:80px 0;}
+    .titleBorderWrap h2{font-size:36px;}
+    .titleBorderWrap p{font-size:20px;}
+    .month-rental-box-row, .card-blog-left-row{margin-top: 50px;}
+}
+@media only screen and (max-width: 1400px) {
+    .download-app-section {
+        padding: 48px 0 18px 0;
+   }
+    ul.nos-vehicle-list li {
+        width:30%;
+   }
+    ul.nos-vehicle-list li label {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    ul.nos-vehicle-list li:nth-child(4n),ul.nos-vehicle-list.lease-tenure-radio li:nth-child(4n) {
+        margin-left: 0;
+   }
+    .rental-detail-place {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+   }
+    .pickup-location-box-wrap .pickup-location-input,.pickup-location-box-wrap .pickup-location-input.group-input {
+       width: 49%;
+   }
+    .have-promocode-link {
+        text-align: left;
+   }
+    .offer-filter-wrap h3 {
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 22px;
+        line-height: 22px;
+   }
+    .filter-box {
+        padding: 8px 15px;
+   }
+    .vehicle-box-detail-wrap {
+        max-width: calc(100% - 30px);
+   }
+    .vehicle-box-design {
+        max-width: calc(25% - 12px);
+        margin-left: 6px;
+        margin-right: 6px;
+        margin-top: 25px;
+   }
+    .vehicle-box-detail-wrap{
+       margin-top: 25px;
+       max-width: calc(100% - 12px);
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 7px;
+        padding-left: 7px;
+   }
+    .feature-vehicle-box .feature-icon img {
+        margin-right: 3px;
+   }
+    .featured-rent-price-radio .featured-rent-radio {
+        width: 100%;
+   }
+    .featured-rent-price-radio .featured-rent-radio + .featured-rent-radio {
+        margin-left: 0px;
+        margin-top: 20px;
+   }
+    .vehicle-detail-slider img {
+        width: 90%;
+        height: auto;
+   }
+    .featured-rent-radio label span {
+        font-size: 20px;
+        line-height: 25px;
+   }
+    .vehicle-design-upgrade-box .vehicle-box-design {
+        max-width: 100%;
+   }
+    .border-md-top-0 {
+        border-top: 0px !important;
+   }
+    .banner-slider-section .slick-arrow{
+       left: 50px;
+   }
+    .banner-slider-section .slick-arrow.next-arrow{
+       right:50px;
+   }
+    .save-cookies-content p{
+       margin-right: 0;
+       margin-bottom: 10px;
+       text-align: center;
+   }
+    .charges-option-per-day {
+        width: 100%;
+   }
+    .download-app-section {
+        padding:25px 0;
+   }
+    ul.nos-vehicle-list li {
+        width:30%;
+   }
+    ul.nos-vehicle-list li:nth-child(n + 3) {
+        margin-top: 10px;
+   }
+    ul.nos-vehicle-list li label {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    ul.nos-vehicle-list li:nth-child(4n),ul.nos-vehicle-list.lease-tenure-radio li:nth-child(4n) {
+        margin-left: 0;
+   }
+    .rental-detail-place {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+   }
+    .pickup-location-box-wrap .pickup-location-input,.pickup-location-box-wrap .pickup-location-input.group-input {
+       width: 49%;
+   }
+    .have-promocode-link {
+        text-align: left;
+   }
+    .offer-filter-wrap h3 {
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 22px;
+        line-height: 22px;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 158px;
+   }
+    .filter-box {
+        padding: 8px 15px;
+   }
+    .vehicle-box-detail-wrap {
+        max-width: calc(100% - 30px);
+   }
+    .vehicle-box-design {
+        max-width: calc(25% - 12px);
+        margin-left: 6px;
+        margin-right: 6px;
+        margin-top: 25px;
+   }
+    .vehicle-box-detail-wrap{
+       margin-top: 25px;
+       max-width: calc(100% - 12px);
+   }
+    .charges-option-up p {
+        width: 100%;
+        margin-bottom: 10px;
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 2px;
+        padding-left: 1px;
+   }
+    .feature-vehicle-box .feature-icon img {
+        margin-right: 3px;
+   }
+    .featured-rent-price-radio .featured-rent-radio {
+        width: 100%;
+   }
+    .featured-rent-price-radio .featured-rent-radio + .featured-rent-radio {
+        margin-left: 0px;
+        margin-top: 20px;
+   }
+    .vehicle-detail-slider img {
+        width: 90%;
+        height: auto;
+   }
+    .featured-rent-radio label span {
+        font-size: 20px;
+        line-height: 25px;
+   }
+    .vehicle-design-upgrade-box .vehicle-box-design {
+        max-width: 100%;
+   }
+    ul.rental-steps-wrap li:not(:last-child)::after { right: -29px; }
+	.promocode-offer-input{ margin-top: 15px; }
+   	.special-offer-box .special-offer-box-wrap { min-height:200px; }
+	.special-offer-box .special-offer-box-wrap.special-offer-big { min-height:425px; }
+    .featured-rent-radio label + input + label {
+        margin-top: 20px !important;
+    }
+    .month-rental-box-col, .card-blog-left-col{padding:0 10px;}
+    .month-rental-box-row, .card-blog-left-row{margin-left:-10px;margin-right:-10px;}
+    .month-rental-box{padding:30px 20px;}
+    .month-rental-box h3, .card-blog-left-content h3{font-size:20px;}
+    .month-rental-box p, .card-blog-left-content p{font-size:16px;}
+    .month-rental-box img { width: 36px; max-height: 36px; }
+    .monthlyTestimonial-Boxslider p{margin:20px 0;}
+    .monthlyTestimonial-wrap{margin-top: 40px;}
+}
+@media only screen and (max-width: 1199px) {
+    h2, .h2{
+       font-size: 36px;
+       line-height: 44px;
+   }
+    h3, .h3 {
+        font-size: 32px;
+        line-height: 39px;
+   }
+   h5, .h5 { font-size: 24px; line-height: 1.2; }
+    h2.border-botom, .h2.border-botom {
+        padding-bottom: 15px;
+   }
+    
+    .find-location-bttn {
+        padding: 16px 38px;
+   }
+    .product-nav-tabs .nav-link {
+        font-size: 16px;
+        line-height: 19px;
+        padding: 10px 28px;
+   }
+    .logo img {
+        max-width: 130px;
+        height: auto;
+   }
+    header.header-nav ul.navbar-nav > li + li {
+        margin-left: 15px;
+   }
+    .special-offer-content {
+        font-size: 18px;
+        line-height: 24px;
+   }
+    .special-offer-content i:first-child {
+        max-width: calc(100% - 50px);
+   }
+    .vehicle-box-design {
+        max-width: calc(33.33% - 12px);
+   }
+    .offer-box-wrapper .vehicle-box-design:nth-child(n + 4) {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+   }
+    ul.rental-steps-wrap li {
+        margin-left: 20px;
+   }
+    ul.rental-steps-wrap a .rental-steps-title {
+        margin-right: 20px;
+   }
+    ul.rental-steps-wrap a:before {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        font-size: 15px;
+   }
+    ul.rental-steps-wrap a {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    ul.rental-steps-wrap li img {
+        margin-left: auto;
+        margin-right: 15px;
+   }
+    .rental-detail-place {
+        font-size: 14px;
+        line-height: 22px;
+   }
+    .rental-steps-content.rental-steps-current {
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .pickup-location-box-wrap {
+        padding: 20px 30px;
+   }
+    input.input-custom.input-location {
+        background-size: 14px auto;
+   }
+    input.input-custom {
+        padding: 12px 40px;
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .pickup-location-offer {
+        padding: 10px 30px;
+   }
+    .offer-filter-wrap h3 {
+        font-size: 20px;
+        line-height: 20px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(7) {
+        margin-left: 0;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 7) {
+        margin-top: 13px;
+   }
+   
+    .vehicle-box-detail-right-content h4 {
+        font-size: 28px;
+        line-height: 34px;
+   }
+    .included-wrapper-featured,.featured-rent-price-radio {
+        padding-top: 18px;
+        margin-top: 18px;
+   }
+    .book-now-btttn, .book-now-btttn:hover {
+        padding: 10px;
+   }
+    .navbar-expand-lg ul.submenu-list-wrap > li > a {
+        padding-right: 0;
+   }
+    .book-now-all-bttns-wrap .book-now-all {
+        width: 46px;
+        height: 46px;
+        line-height: 44px;
+        font-size: 18px;
+        border-radius: 10px;
+   }
+    .book-now-all-bttns-wrap .book-now-all.book-now-whatsapp {
+        line-height: 39px;
+   }
+    .upgrade-option-modal-content .offer-box-wrapper .upgrade-slider-box-wrap {
+        max-width: 46%;
+   }
+   /*new work*/
+    #partner-a .nav-link{
+        min-width: 167px;
+   }
+    #rentalprice .border-xl-left {
+        border-top: 1px solid rgb(0 0 0 / 10%);
+   }
+    .bor-0{
+        border: 0px !important 
+   }
+    .NearByLocation__currentLocation{
+       font-size: 16px;
+       line-height: 20px;
+   }
+    .NearByLocation__currentLocation img {
+        max-width: 20px;
+        height: auto;
+   }
+    .StationHistory__title {
+        font-size: 16px;
+   }
+    .StationDetails__wrapper h3.StationDetails__headline {
+        font-size:18px;
+        line-height:1.2;
+   }
+    .OpeningHours__openingDay {
+        font-size: 15px;
+        line-height: 18px;
+   }
+    .pickup-dropdown-box-design {
+        left: -24px !important;
+   }
+    h2, .h2{
+       font-size: 36px;
+       line-height: 44px;
+   }
+    h3, .h3 {
+        font-size: 32px;
+        line-height: 39px;
+   }
+    h2.border-botom, .h2.border-botom {
+        padding-bottom: 15px;
+   }
+    .ptb-80 {
+        padding: 60px 0;
+   }
+    .ptb-100{
+       padding:80px 0;
+   }
+    .primary-bttn {
+        padding: 15px 40px;
+   }
+    .find-location-bttn {
+        padding: 16px 38px;
+   }
+    .product-nav-tabs .nav-link {
+        font-size: 16px;
+        line-height: 19px;
+        padding: 10px 28px;
+   }
+    .logo img { max-width: 130px; height: auto; }
+	header.header-nav ul.navbar-nav > li > a { font-size: 16px; line-height: 20px; }
+    header.header-nav ul.navbar-nav > li + li { margin-left:5px; }
+    .special-offer-content {
+        font-size: 18px;
+        line-height: 24px;
+   }
+    .special-offer-content i:first-child {
+        max-width: calc(100% - 50px);
+   }
+    .vehicle-box-design {
+        max-width: calc(33.33% - 12px);
+   }
+    .offer-box-wrapper .vehicle-box-design:nth-child(n + 4) {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+   }
+    ul.rental-steps-wrap li {
+        margin-left: 20px;
+   }
+    ul.rental-steps-wrap a .rental-steps-title {
+        margin-right: 20px;
+   }
+    ul.rental-steps-wrap a:before {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        font-size: 15px;
+   }
+    ul.rental-steps-wrap a {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    ul.rental-steps-wrap li img {
+        margin-left: auto;
+        margin-right: 15px;
+   }
+    .rental-detail-place {
+        font-size: 14px;
+        line-height: 22px;
+   }
+    .rental-steps-content.rental-steps-current {
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .pickup-location-box-wrap {
+        padding: 20px 30px;
+   }
+    input.input-custom.input-location {
+        background-size: 14px auto;
+   }
+    input.input-custom {
+        padding: 12px 40px;
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .pickup-location-offer {
+        padding: 10px 30px;
+   }
+    .offer-filter-wrap h3 {
+        font-size: 20px;
+        line-height: 20px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(7) {
+        margin-left: 0;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 19%;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 7) {
+        margin-top: 13px;
+   }
+   .vehicle-box-detail-wrap > div {
+    padding: 0 7px;
+}
+    .vehicle-box-detail-right-content h4 {
+        font-size: 28px;
+        line-height: 34px;
+   }
+    .included-wrapper-featured,.featured-rent-price-radio {
+        padding-top: 18px;
+        margin-top: 18px;
+   }
+    .book-now-btttn, .book-now-btttn:hover {
+        padding: 10px;
+   }
+    .navbar-expand-lg ul.submenu-list-wrap > li > a {
+        padding-right: 0;
+   }
+    .book-now-all-bttns-wrap .book-now-all {
+        width: 46px;
+        height: 46px;
+        line-height: 44px;
+        font-size: 18px;
+        border-radius: 10px;
+   }
+    .book-now-all-bttns-wrap .book-now-all.book-now-whatsapp {
+        line-height: 39px;
+   }
+    .upgrade-option-modal-content .offer-box-wrapper .upgrade-slider-box-wrap {
+        max-width: 46%;
+   }
+    .border-xl-left{
+       border-top:1px solid rgb(0 0 0 / 10%);
+   }
+    .input-type-file-image-view {
+        margin-left: 20px;
+   }
+    .custom-input-type-wrap input, .custom-input-select-wrap select {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 10px 16px;
+   }
+    .rounded-bttn {
+        padding: 10px 30px;
+   }
+    .custom-input-type-file-wrap span {
+        padding: 12px 50px;
+   }
+    #partner-ab .border-xl-left {
+        border-top: 0px !important;
+   }
+    #my-a h5{
+        font-size: 26px;
+   }
+    #my-a p {
+        margin-top: 0px !important;
+   }
+    #my-a .my-fonta{
+        margin: 0px 0px !important;
+   }
+    #my-a{
+        padding-left: 27px;
+   }
+    .card-body2{
+        padding-left: 10px;
+   }
+    #a1{
+        margin-bottom: 10px;
+   }
+    .box-title-icon-border{
+        margin-top: 50px;
+   }
+    .card-body2{
+        text-align: left !important;
+        padding-bottom: 0px;
+   }
+    .pickup-location-flex{
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(1) {
+        max-width: 270px;
+       padding-right:15px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        max-width: 360px;
+       padding: 0 15px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        max-width: 150px;
+        padding-left: 15px;
+        width: 100%;
+   }
+    .search-box-wrap.promocode-offer-wrap,.search-box-wrap.promocode-offer-wrap .select-wrap-dropdown {
+        max-width: 100%;
+   }
+    .search-box-wrap .select-wrap-dropdown a {
+        max-width: 120px;
+   }
+    /* .select-wrap-dropdown.select-wrap-section-main .select-wrap-section {
+        max-width: calc(100% - 122px);
+       padding-left:15px;
+   } */
+    .search-box-wrap button.search-bttn {
+        padding: 12px 22px;
+   }
+    .search-box-wrap button.search-bttn i {
+        margin-right: 10px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-right: 25px;
+        padding-left: 25px;
+   }
+    .slider-brands-logo {
+        width: 100px;
+        height: 100px;
+   }
+    .slider-brands-logo img {
+        max-width: 50px;
+   }
+    .slider-brands {
+        padding: 0 5px;
+   }
+    .subscriber-container form { max-width:380px; }
+    ul.rental-steps-wrap li {
+        max-width: 160px;
+   }
+    ul.rental-steps-wrap li .rental-steps-title {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        width: 100%;
+   }
+    ul.rental-steps-wrap {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+   }
+    .rental-detail-place {
+       -webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+   }
+	.rental-detail-place .rental-detail-place-right { padding-left: 0; }
+   	.login-register-wrap { margin-left: 0;font-size: 16px;line-height:20px;}
+   	.search-box-wrap { width: 100%; }
+	.custom-checkbox-2-wrap .custom-checkbox-2{min-width:20px;height:20px;}
+	.custom-checkbox-2-wrap .custom-checkbox-2::before { top: 40%; -webkit-transform: rotate( 45deg ) translateY(-50%); -ms-transform: rotate( 45deg ) translateY(-50%); transform: rotate( 45deg ) translateY(-50%); left: 2px; }
+	.special-offer-box .special-offer-box-wrap.special-offer-big { min-height: 390px; }
+	.mb-50 { margin-bottom: 30px; }
+	.subscriber-text-left { max-width: 530px; }
+    .banner-section-content h1 { max-width: 94%; }
+    #partner h5 { font-size: 28px; line-height: 1.3; }
+    .phone-quick, .phone-quick:hover { font-size: 24px; }
+    .email-quick, .email-quick:hover { font-size: 22px; }
+    .location-info-box ul li { width: 100%; }
+    .banner-section-content h1 { font-size: 26px; }
+    .categories-box-content h6 { font-size: 18px; }
+    .slider-brands-section.slider-arrows .slick-prev { left: 0; }
+    .slider-brands-section.slider-arrows .slick-next { right: 0; }
+    .ptb-50 { padding: 50px 0; }
+    .categories-box-col{width:50%;}
+    .categories-box-wrap > div:nth-child(n + 3) { margin-top: 30px; }
+    .width-75,.width-50{width:100%;}
+    .other-products-news-button a { font-size: 16px; line-height: 22px; padding: 10px 20px; }
+    .other-products-news-content h3 { font-size: 22px; }
+    .other-products-news-content p { font-size: 16px; line-height: 1.3; }
+    .paddingBottom { padding-bottom: 30px; }
+    .subscriber-container form {max-width: 310px;}
+    body .react-google-flight-datepicker .day {width:35px;height:35px;}
+    body .react-google-flight-datepicker .day::after {height:35px;width:35px;}
+    body .react-google-flight-datepicker .dialog-date-picker {max-width: 630px;}
+    body .react-google-flight-datepicker .dialog-date-picker {max-width: 630px;}
+    .pickup-return-date-wrapper .pickup-dropdown-box-left {max-width: 690px;}
+    
+    .pickup-return-date-wrapper .pickup-dropdown-box-left {max-width: 100%;width: 100%;}
+    
+    .pickup-location-input.group-input {justify-content: center;}
+    .pickup-dropdown-box-wrapper.pickup-return-date-wrapper {max-height: 100vh;overflow: auto;}
+    .pikcup-time-list-wrap {padding-bottom: 20px;}
+   
+    .reservation-confirmation .box-title-icon-border {margin-top: 0;}
+    .reservation-confirmation .StationDetails__wrapper {min-height: auto;margin-bottom: 0;}
+    #reserve .pickup-location-box h5 {font-size: 22px;line-height: 1;}
+    #reserve h5.promocode-applied-box {font-size: 14px;}
+    .supportUpcoming-rental-box h5 {font-size: 22px;}
+    .supportUpcoming-rental-box .rounded-bttn, #my-mob .rounded-bttn {font-size: 14px;line-height: 20px;padding: 8px 22px;}
+
+
+    .new-search-box-wrap .right-search-box-col-wrap { margin-left: 17px; padding-left: 17px; width: calc(100% - 347px); }
+    .new-search-box-wrap > .new-select-wrap-dropdown { width: 330px; }
+    .new-search-box-wrap .pick-up-location-modal { max-width: 180px; }
+    .new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap { max-width: 130px; }
+    .right-search-box-col-wrap .pickup-date-select-wrap { max-width: 290px; }
+    .right-search-box-col-wrap .promocode-offer-wrap { width: 140px; }
+    .right-search-box-col-wrap > .search-bttn { width: 52px; height: 52px; margin: 0; font-size: 20px; }
+    .pickup-return-date-wrap .pickup-return-date-left, .pickup-return-date-wrap .pickup-return-date-right { max-width: 140px; }
+    .right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle.widget-time, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle.widget-time { width: 70px; }
+    .right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle { width: 60px; }
+    .new-search-box-wrap .select-wrap-section label, .right-search-box-col-wrap .pickup-return-date-left label, .right-search-box-col-wrap .pickup-return-date-right label, .promocode-offer-wrap .select-wrap-dropdown label { font-size: 14px; }
+    .new-search-box-wrap .select-wrap-section label img, .right-search-box-col-wrap .pickup-return-date-left label img, .right-search-box-col-wrap .pickup-return-date-right label img { width: 22px; max-height: 22px; margin-right: 6px; }
+    .new-banner-section-content { top: 20px; }
+
+
+    .new-more-car-slider-section,.more-car-slider-wrap,.what-new-wrap-new { margin-top: 30px; }
+    .special-offer-section,.more-slider-content-section { padding: 30px 0 90px; }
+    .more-cars-slider p { font-size: 16px; margin-top: 10px; }
+    .more-car-slider-wrap ul.slick-dots { bottom: -40px; }
+    .more-car-slider-wrap ul.slick-dots li button { width: 10px; height: 10px; }
+    .more-car-slider-wrap ul.slick-dots li.slick-active button { width: 15px; height: 15px; }
+    .subscriber-text-right img { width: 500px; }
+    .subscriber-text-right { top: -20px; }
+    .find-location-section { padding: 90px 0; }
+    ul.social-media-footer li + li { margin-left: 6px; }
+    .footer-bottom-wrap .social-media-footer a { width: 35px; height: 35px; font-size: 18px; }
+    ul.info-list-wrap li + li { margin-left: 20px; }
+    .new-more-car-slider-wrap.slick-slider.slick-dotted { max-width: 700px; }
+    .more-car-slider-wrap .slide-arrow { width: 35px; height: 40px; font-size: 25px; }
+    .info-bttn-sidesticky a { width: 40px; height: 40px; font-size: 20px; }
+    .info-bttn-sidesticky a + a { margin-top: 8px; }    
+    .new-more-car-slider-content p { font-size: 20px; }
+    .new-more-car-slider-content p span { font-size: 30px; }
+    .select-wrap-dropdown.select-wrap-section-main { max-width: 330px; }
+    .offer-filter-wrap {justify-content:flex-start;}
+    .new--banner-section-content .newsearchBoxwrap-comb-Col .titleLabel { padding: 0; }
+    .newsearchBoxwrap-comb-Col .titleLabel { padding: 0; }
+    .new--banner-section-content .titleLabel { font-size: 14px; margin-bottom: 6px; }
+    .new--banner-section-content .titleLabel img {max-height: 22px;margin-right: 6px;}
+    .padding-100{padding:60px 0;}
+    .titleBorderWrap h2{font-size:32px;padding-bottom:15px;margin-bottom: 10px;}
+    .titleBorderWrap p{font-size:18px;}
+    .view-details-wrap h4 { font-size: 24px; }
+    .newsearchBox-promocode-wrap > .monthly-top-margin {
+        margin-top: 27px !important;
+    }
+    
+}
+@media only screen and (max-width: 991px) {
+    h2, .h2{
+       font-size: 32px;
+       line-height: 40px;
+   }
+    h3, .h3 {
+        font-size: 30px;
+        line-height: 37px;
+   }
+    h4, .h4 {
+        font-size: 28px;
+        line-height: 34px;
+   }
+   h5, .h5 { font-size:22px;}
+   
+    h2.border-botom:after, .h2.border-botom:after {
+        width: 50px;
+   }
+    .lease-wrapper .lease-left,.lease-wrapper .lease-right {
+        -ms-flex: 0 0 100%;
+        -webkit-box-flex: 0;
+        flex: 0 0 100%;
+        max-width: 100%;
+   }
+   .follow-us-strip-banner {
+        width: 100%;
+        justify-content: center;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    ul.nos-vehicle-list li {
+        width: auto;
+   }
+    ul.nos-vehicle-list.lease-tenure-radio li:nth-child(4n){
+       margin-left: 15px;
+   }
+    .more-car-slider-wrap:before, .more-car-slider-wrap:after {
+        width: 100px;
+   }
+    .download-app-wrap > a + a {
+        margin-left: 35px;
+   }
+    .download-app-wrap a span.download-text {
+        margin: 0 8px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-left: 40px;
+        padding: 10px 0 10px 40px;
+   }
+    .download-app-wrap a{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .find-location-bttn {
+        padding: 14px 34px;
+        font-size: 16px;
+        line-height: 16px;
+   }
+    .discount-sticker {
+        font-size: 14px;
+        line-height: 14px;
+   }
+    .discount-sticker span {
+        font-size: 22px;
+        line-height: 22px;
+   }
+    .special-offer-title {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 8px 10px;
+   }
+    .product-nav-tabs {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+   }
+    header.header-nav button.navbar-toggler {
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+   }
+    a.logo {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+		padding: 20px 0;
+       margin-right:auto;
+   }
+    .reguster-right-wrap {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        order: 2;
+   }
+    header.header-nav button.navbar-toggler {
+        padding: 0;
+        border: 0;
+   }
+    .navbar-collapse {
+        z-index: 9999;
+        position: fixed;
+        top: 110px;
+        width: 100%;
+        background-color: #ffffff;
+        padding: 20px 10px;
+        left: 0;
+        right: 0;
+   }
+    .navbar-collapse ul.navbar-nav {
+       max-width: 690px;
+       margin: 0 auto;
+   }
+    .navbar-collapse ul.navbar-nav li.nav-item {
+        width: 100%;
+       margin: 5px 0;
+   }
+    header.header-nav ul.navbar-nav li + li {
+        margin-left: 0;
+   }
+    body.body-sticky-top .navbar-collapse {
+        top: 70px;
+   }
+    .header-invert .call-header {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+   }
+    .vehicle-box-design {
+        padding: 20px 13px;
+   }
+    .vehicle-box-detail-wrap .vehicle-box-detail-left, .vehicle-box-detail-wrap .vehicle-box-detail-right {
+        -ms-flex: 0 0 100%;
+        -webkit-box-flex: 0;
+        flex: 0 0 100%;
+        max-width: 100%;
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 4px;
+        padding-left: 4px;
+   }
+    ul.rental-steps-wrap a:before {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+   }
+    ul.rental-steps-wrap {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+   }
+    .header-invert .toggle-icon span {
+        width: 22px;
+        margin: 4px auto;
+   }
+    .header-invert .reguster-right-wrap .country-dropdown {
+        margin-right: 0;
+   }
+   
+    .footer-invert ul.footer-navigation{
+       width: 100%;
+   }
+    footer.footer-invert .footer-wrap,.footer-invert ul.footer-navigation {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+   .footer-wrap .footer-logo, footer.footer-invert .footer-logo {margin-bottom: 20px;}
+    ul.footer-navigation li {
+        margin-bottom: 10px;
+   }
+    footer.footer-invert {
+        padding: 20px 0;
+   }
+    .footer-invert ul.footer-navigation li + li,.footer-invert ul.footer-navigation li {
+        margin-left: 20px;
+        margin-right: 20px;
+   }
+    header.header-nav ul.navbar-nav > li > a {
+        padding: 10px 0;
+        width: 100%;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap{
+       opacity:1;
+       visibility:visible;
+       -webkit-transform: translateY(0%);
+       -ms-transform: translateY(0%);
+       transform: translateY(0%);
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap > li > a{
+       position: relative;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap > li > a:before {
+        content: "- ";
+        margin-right: 5px;
+   }
+    body.toggle-menu-body {
+        overflow: hidden;
+   }
+    .navbar-collapse {
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: calc(100% - 100px);
+   }
+    header.header-nav.header-invert{
+       padding:0;
+   }
+    ul.navbar-nav > li.nav-item.has-submenu > .submenu-list-wrapper{
+       position: relative;
+       display:none;
+   }
+    ul.navbar-nav > li.nav-item.has-submenu.menu-toggle > .submenu-list-wrapper{
+       display:block;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+    .top-left-menu-wrapper {
+        top: 74px;
+   }
+    .header-left-menu-section .row > div:nth-child(3) {
+        border-left: 0;
+   }
+    .header-left-menu-section .row > div:nth-child(n + 3) {
+        margin-top: 30px;
+   }
+    .upgrade-option-modal-content .offer-box-wrapper .upgrade-slider-box-wrap {
+        max-width: 100%;
+   }
+    .vehicle-box-design-book {
+        padding: 10px 30px;
+   }
+    .upgrade-option-modal-content h2 {
+        font-size: 24px;
+        line-height: 24px;
+   }
+    .vehicle-box-detail-right {
+        margin-top: 20px;
+   }
+    .custom-input-type-file-wrap label {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+   }
+   .NearByLocation__currentLocation .width-col,.NearByLocation__currentLocation .width-col.want-delivery-wrap-select {max-width: 100%;}
+
+    .NearByLocation__currentLocation .width-col + .width-col {margin-top: 10px;}
+    .NearByLocation__currentLocation .set-bttn {
+        font-size: 14px;
+    }
+   /*new work*/
+    .flex-reversea{
+        -ms-flex-wrap: wrap-reverse;
+        flex-wrap: wrap-reverse;
+   }
+    .flex-reverseaa{
+        -ms-flex-wrap: wrap-reverse;
+        flex-wrap: wrap-reverse;
+   }
+    .contactusform-right{
+        margin-bottom: 15px;
+   }
+    .flex-reversea img{
+        border-radius: 15px;
+        -o-object-fit: cover;
+        object-fit: cover;
+        width: 100%;
+   }
+    #partner .pickup-location-box{
+        padding: 15px 20px;
+   }
+  
+    #partner-a h5 {
+        font-size: 28px;
+        color: #000;
+   }
+    #partner-a p {
+        font-size: 14px;
+        margin-top: 10px !important;
+        color: #000;
+   }
+    .linka, .linka:hover {
+        color: #C8102E;
+        font-size: 14px;
+        margin-top: 10px;
+   }
+    #rentalprice .pickup-location-flex-content {
+        width: auto;
+        margin-top: 10px;
+   }
+   #my-mob p {
+        padding-bottom: 10px;
+   }
+    #includea ul.check-box-listing li:last-child{
+        padding-bottom: 30px;
+   }
+    .border-topshow {
+        border-top: 1px solid rgb(0 0 0 / 10%) !important 
+   }
+    .border_r {
+        border-right: 0px;
+        border-bottom: 1px solid #525366;
+       /* margin-top: 10px;
+        */
+        padding-bottom: 15px;
+   }
+    .pickup-dropdown-box-design {
+        left: -34px !important;
+   }
+   
+    .StationDetails__wrapper {
+        padding:0 0 25px 0;
+        max-height: calc(100% - 250px);
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(1) {
+        padding-right: 10px;
+        width: 55%;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        padding: 0 10px;
+        max-width: 45%;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        max-width: 180px;
+        padding-left: 10px;
+        margin: 0;
+        border-left: 0;
+   }
+    .search-box-wrap button.search-bttn {
+        margin-left: 0;
+   }
+    /* .select-wrap-dropdown.select-wrap-section-main .select-wrap-section {
+        max-width: calc(100% - 134px);
+   }
+    .select-wrap-dropdown.select-wrap-section-main .select-wrap-section {
+        max-width: 50%;
+        text-align: center;
+   } */
+   .select-wrap-dropdown.select-wrap-section-main{max-width:100%;width:100%;}
+    
+    h2.border-botom:after, .h2.border-botom:after {
+        width: 50px;
+   }
+    .mb-50 { margin-bottom:20px; }
+    .lease-wrapper .lease-left,.lease-wrapper .lease-right {
+        -ms-flex: 0 0 100%;
+        -webkit-box-flex: 0;
+        flex: 0 0 100%;
+        max-width: 100%;
+   }
+    ul.nos-vehicle-list li {
+        width: auto;
+   }
+    ul.nos-vehicle-list li:nth-child(n + 3){
+		margin-top:0;
+       margin-left: 8px;
+   }
+    ul.nos-vehicle-list.lease-tenure-radio li:nth-child(4n){
+       margin-left: 15px;
+   }
+    .more-car-slider-wrap:before, .more-car-slider-wrap:after {
+        width: 100px;
+   }
+    .download-app-wrap > a + a {
+        margin-left: 35px;
+   }
+    .download-app-wrap a span.download-text {
+        margin: 0 8px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-left: 40px;
+        padding: 10px 0 10px 40px;
+   }
+    .download-app-wrap a{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .find-location-bttn {
+        padding: 14px 34px;
+        font-size: 16px;
+        line-height: 16px;
+   }
+    .discount-sticker {
+        font-size: 14px;
+        line-height: 14px;
+   }
+    .discount-sticker span {
+        font-size: 22px;
+        line-height: 22px;
+   }
+    .special-offer-title {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 8px 10px;
+   }
+    .product-nav-tabs {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+   }
+
+    header.header-nav button.navbar-toggler {
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+   }
+    .reguster-right-wrap {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        order: 2;
+   }
+    header.header-nav button.navbar-toggler {
+        padding: 0;
+        border: 0;
+   }
+    .navbar-collapse {
+        z-index: 9999;
+        position: fixed;
+        top: 110px;
+        width: 100%;
+        background-color: #ffffff;
+        padding: 20px 10px;
+        left: 0;
+        right: 0;
+   }
+    .navbar-collapse ul.navbar-nav {
+       max-width: 690px;
+       margin: 0 auto;
+   }
+    .navbar-collapse ul.navbar-nav li.nav-item {
+        width: 100%;
+       margin: 5px 0;
+   }
+    header.header-nav ul.navbar-nav li + li {
+        margin-left: 0;
+   }
+    body.body-sticky-top .navbar-collapse {
+        top: 70px;
+   }
+    .header-invert .call-header {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+   }
+    .vehicle-box-design {
+        padding: 20px 13px;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 19%;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 6) {
+        margin-left: 10px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(6) {
+        margin-left: 0;
+   }
+    .vehicle-box-detail-wrap .vehicle-box-detail-left, .vehicle-box-detail-wrap .vehicle-box-detail-right {
+        -ms-flex: 0 0 100%;
+        -webkit-box-flex: 0;
+        flex: 0 0 100%;
+        max-width: 100%;
+   }
+   .charges-option-up p span {
+        font-size: 18px;
+        line-height: 1;
+    }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 4px;
+        padding-left: 4px;
+   }
+    ul.rental-steps-wrap a:before {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+   }
+    ul.rental-steps-wrap {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+   }
+    .header-invert .toggle-icon span {
+        width: 22px;
+        margin: 4px auto;
+   }
+    .header-invert .reguster-right-wrap .country-dropdown {
+        margin-right: 0;
+   }
+    .header-invert .call-header span {
+        max-width: 130px;
+        margin-right: 20px;
+   }
+    .footer-invert ul.footer-navigation{
+       width: 100%;
+   }
+    footer.footer-invert .footer-wrap,.footer-invert ul.footer-navigation {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .footer-wrap .footer-logo {
+        margin-bottom: 20px;
+   }
+    ul.footer-navigation li {
+        margin-bottom: 10px;
+   }
+    footer.footer-invert {
+        padding: 20px 0;
+   }
+    .footer-invert ul.footer-navigation li + li,.footer-invert ul.footer-navigation li {
+        margin-left: 20px;
+        margin-right: 20px;
+   }
+    header.header-nav ul.navbar-nav > li > a {
+        padding: 10px 0;
+        width: 100%;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap{
+       opacity:1;
+       visibility:visible;
+       -webkit-transform: translateY(0%);
+       -ms-transform: translateY(0%);
+       transform: translateY(0%);
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap > li > a{
+       position: relative;
+   }
+    .navbar-expand-lg .navbar-nav li.nav-item ul.submenu-list-wrap > li > a:before {
+        content: "- ";
+        margin-right: 5px;
+   }
+    body.toggle-menu-body {
+        overflow: hidden;
+   }
+    .navbar-collapse {
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: calc(100% - 100px);
+   }
+    header.header-nav.header-invert{
+       padding:0;
+   }
+    ul.navbar-nav > li.nav-item.has-submenu > .submenu-list-wrapper{
+       position: relative;
+       display:none;
+   }
+    ul.navbar-nav > li.nav-item.has-submenu.menu-toggle > .submenu-list-wrapper{
+       display:block;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+    .top-left-menu-wrapper {
+        top: 74px;
+   }
+    .header-left-menu-section .row > div:nth-child(3) {
+        border-left: 0;
+   }
+    .header-left-menu-section .row > div:nth-child(n + 3) {
+        margin-top: 30px;
+   }
+    .upgrade-option-modal-content .offer-box-wrapper .upgrade-slider-box-wrap {
+        max-width: 100%;
+   }
+    .vehicle-box-design-book {
+        padding: 10px 30px;
+   }
+    .upgrade-option-modal-content h2 {
+        font-size: 24px;
+        line-height: 24px;
+   }
+    .vehicle-box-detail-right {
+        margin-top: 20px;
+   }
+    .pickup-location-flex-content {
+        width: 100%;
+        margin-bottom: 0;
+   }
+    .box-shadow-white-box {
+        padding: 15px 25px;
+   }
+    .custom-input-type-file-wrap label {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+   }
+    .input-type-file-image-view {
+        width: 150px;
+        height: auto;
+        padding: 10px 0px;
+   }
+    #location .rounded-bttn{
+        width: 100% 
+   }
+    #my-a h5{
+        font-size: 20px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(1),.search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        max-width: 100%;
+        width: 100%;
+        border: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        padding: 10px 0;
+        margin: 10px 0;
+        border-top: 1.5px solid rgba(0, 0, 0, 0.2);
+        border-bottom: 1.5px solid rgba(0, 0, 0, 0.2);
+   }
+    .search-box-wrap {
+        padding: 20px 40px;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		border-radius:20px;
+   }
+    .search-box-wrap .select-wrap-dropdown a {
+        max-width: 260px;
+   }
+    .download-app-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .download-app-wrap > a + a {
+        margin-left: 111px;
+   }
+    .download-app-wrap .download-function-anchor {
+        margin-bottom: 20px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-left: 0;
+        padding-left: 0;
+        border-left: 0;
+   }
+    .subscriber-container {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .subscriber-container form {
+        margin-top: 15px;
+   }
+    .subscriber-red-section {
+        padding: 25px 0;
+   }
+    .slider-brands {
+        padding: 0 10px;
+   }
+    ul.rental-steps-wrap li:not(:last-child)::after {
+        right: -17px;
+       background-size:20px;
+   }
+   .subscriber-text-left { max-width: 100%; text-align: center; }
+   .location-wrap-left { width: 100%; }
+   .location-wrap-left h2.border-botom::after { left: 0; right: 0; margin: 0 auto; }
+   .location-wrap { -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+   .info-wrapper p { width: 100%; text-align: center; }
+   .location-wrap { justify-content: center; }
+   .location-wrap h2.border-botom:after { right: 0; margin: 0 auto; }
+   .primary-bttn { padding: 12px 30px; }
+   .info-wrapper { justify-content: center; }
+   p, .p{font-size: 20px;line-height:1.2;}
+   #partner h5 { font-size: 24px; line-height: 1.3; }
+   div#partner .pad-30 .pickup-location-box { padding: 0 0 20px; }
+   #id2 h5 { margin-top: 0;font-size:28px;line-height:1.2;}
+   #id2 img { margin-top: 30px; }
+   #partner-a ul.nos-vehicle-list li label p { margin: 0 !important; font-size: 12px; }
+   #id2 span { margin-top: 0; }
+   .banner-section-content h1 { font-size: 24px; }
+   #id6 .pickup-location-flex-content img { height: auto !important; }
+   .categories-box-col { width: 50%; }
+   .express-box-wrap>div:nth-child(n+3) { margin-top: 30px; }
+   .box-shadow-white-box-a .top-margin-fifty { margin-top: 20px !important; }
+   .other-products-news-content h3 { font-size: 20px; }
+   .vehicle-box-detail-left .check-box-listing { margin: 0 -15px; }
+   .StationDetails__headline a { font-size: 12px; }
+   .text-18{font-size:16px;line-height:1.2;}
+   .text-16, .featured-rent-radio label span.text-16 { font-size: 14px; line-height: 1.4; }
+   .product-nav-tabs .nav-link { padding: 10px 25px; border-radius: 20px; }
+   .other-vehicle-type-wrapper .row > div:nth-child(n + 3){ margin-top: 30px; }
+   .awards-content img { max-width: 200px; height: auto !important; }
+   /*-- Search Module --*/
+   body.toggle-serach-bar {overflow: hidden;}
+   .toggle-serach-bar .pickup-dropdown-box-design{
+       position:fixed;
+       top:0;
+       left:0!important;
+       width:100%;
+       min-height:100%;
+       z-index: 9999;
+    border-radius: 0;
+   }
+   .StationHistory__stationInfo {max-height: calc(100vh - 100px);}
+   .pickup-dropdown-box-wrapper{position: relative;}
+  
+    .NearByLocation__currentLocation {
+        font-size: 12px;
+        line-height: 1.4;
+    }
+    .NearByLocation__currentLocation input#deliveryAddress {max-width: 100%;}
+    
+    body .react-google-flight-datepicker .dialog-date-picker.open{z-index:9999;}
+    .pickup-dropdown-box-wrapper.pickup-return-date-wrapper.date-model-wrap .confirm-mobile-btnn {top:auto;bottom:0;}
+
+
+    .new-more-car-slider-wrap.slick-slider.slick-dotted { max-width: 700px; }
+    .more-car-slider-wrap .slide-arrow { width: 35px; height: 40px; font-size: 25px; }
+    .info-bttn-sidesticky a { width: 40px; height: 40px; font-size: 20px; }
+    .info-bttn-sidesticky a + a { margin-top: 8px; }
+    .new-search-box-wrap > .new-select-wrap-dropdown { width: 100%; }
+    .new-search-box-wrap .right-search-box-col-wrap { width: 100%; margin: 0; padding: 0; border: 0; border-top: 1px solid #CCCCCC; padding-top: 20px; margin-top: 20px; }
+    .right-search-box-col-wrap .pickup-date-select-wrap { max-width: 52%; }
+    .right-search-box-col-wrap .promocode-offer-wrap { width: 200px; padding: 0; }
+    .new-search-box-wrap .pick-up-location-modal,.new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap { max-width: 47%; }
+    .banner-slider-section .slick-arrow { left: 10px; }
+    .banner-slider-section .slick-arrow.next-arrow { right: 10px; }
+    .new-more-car-slider-content p{font-size:18px;}
+    .new-more-car-slider-content p span{font-size:26px;}
+    
+    .subscriber-text-right { display: none; }
+    .subscriber-container form { margin: 15px auto 0; }
+    .what-new-sectio .row > div:nth-child(n + 3) { margin-top: 30px; }
+    .what-new-sectio .row { justify-content: center; }
+    .find-location-section { padding: 70px 0; }
+    .footer-nav-menu-wrap .nav-item-ul > li { width:48%; }
+    .footer-nav-menu-wrap h4 {margin-bottom: 14px;border-bottom: 1px solid #E21936;padding-bottom: 5px;}
+    .new-return-pickup-wrap label { max-width: 100%; }
+    .new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap {align-items: center;}
+    .custom-checkbox-2-wrap .custom-checkbox-2::before { top: 31%; }
+    .new-reguster-right-wrap{display: block;order: 1;}
+    .booking-summary-right,.booking-summary-left { max-width: 100%;padding: 0;}
+    .booking-summary-right{margin-top: 30px;}
+    .link-booking-bttn-wrap{justify-content:flex-start;}
+    .congrts-title-wrap h1 { font-size: 30px; }
+    .congrts-title-wrap p { font-size: 18px; }
+    .congrts-scnpg-red-strip h2 { font-size: 18px; }
+    .box-title-icon-border .box-title-icon-rounded { width: 20px; height: 20px; line-height: 20px; }
+    .congrts-scnpg-red-right h4 { font-size: 16px; }
+    .congrts-scnpg-red-right .box-title-icon-border + .box-title-icon-border { margin-left: 25px; }
+    .rvrsn-title-right h5.rsnrn-number { font-size: 20px; }
+
+    .new-search--Box-wrap-row .newsearchBoxwrap-Col:first-child { width: 100%;}
+    .new-search--Box-wrap-row .newsearchBoxwrap-Col:nth-child(n + 2){ width: 50%; }
+    /* .new--banner-section-content .pickup-dropdown-box-wrapper { max-height: calc(100vh - 300px);overflow: auto;} */
+    .StationHistory__stationInfo { max-height: fit-content; }
+    .pickup-dropdown-box-right,.pickup-dropdown-box-left { width: 100%; max-width: 100%; }
+    .new--banner-section-content .yourLocation-wrap .pickup-dropdown-box-right { padding-left: 0; padding-top: 30px; }
+    .new-search--Box-wrap-row > div:nth-child(n + 2) { margin-top: 34px; }
+    .new-banner-section-content.new--banner-section-content .new-search-box-wrap > .right-search-box-col-wrap { display: none; }
+    .StationDetails__wrapper{min-height:auto;}
+    .new--banner-section-content .pickup-dropdown-box-wrapper.yourLocation--box .pickup-dropdown-box-left .NearByLocation__currentLocation > div {
+        width: 48%;
+    }
+    .new--banner-section-content .NearByLocation__currentLocation + .NearByLocation__currentLocation .set-bttn {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+    .month-rental-box-col, .card-blog-left-col { max-width: 50%; }
+    .month-rental-box-row div:nth-child(n + 3), .card-blog-left-row div:nth-child(n + 3) { margin-top: 20px; }
+    .view-details-wrap h4{font-size:22px;}
+    .view-details-wrap .modal-footer .rounded-bttn { padding: 8px 14px; }
+    .vehicle-box-detail-wrap .vehicle-box-detail-left,.vehicle-box-detail-wrap .vehicle-box-detail-right {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 900px) {
+    .mt-1.d-flex-center{
+        margin-bottom: 10px !important 
+   }
+    .reg-main-img img {
+        width: 500;
+        height: 924px;
+        display: none;
+   }
+    .reg-main-img {
+        display: none;
+   }
+    .page-title{
+        font-size: 37px;
+   }
+    .topblock{
+        background-color: rgb(255, 255, 255);
+        padding: 25px;
+        border-radius: 12px 12px 0px 0px;
+   }
+    .midblocks {
+        background-color: rgb(255 255 255);
+        border-radius: 12px;
+        height: 306px;
+        margin-bottom: 20px;
+   }
+    .icon-text {
+        width: 216px;
+        position: relative;
+        left: 55px;
+        top: -29px;
+   }
+    .block-icon{
+        background-color: #F9E5E8;
+        width: -webkit-fit-content;
+        width: -moz-fit-content;
+        width: fit-content;
+        position: relative;
+        top: 12px;
+        left: 0px;
+        border-radius: 5px;
+   }
+    span{
+        word-wrap: break-word;
+   }
+    .icon{
+        width: 44;
+        height: 44;
+        background-color: #F9E5E8;
+        border-radius: 11px;
+   }
+    .icon-image {
+        width: 22;
+        height: 22;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        position: relative;
+        top: 13px;
+   }
+    .socialbtn-row{
+        margin: 0 auto;
+       ;
+   }
+    .span-notreg{
+        width: -webkit-fill-available;
+        height: -webkit-fit-content;
+        height: -moz-fit-content;
+        height: fit-content;
+        -moz-text-align-last: center;
+        text-align-last: center;
+        padding: 10;
+   }
+    .fb-btn-login {
+        float: right;
+        margin: 0;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+    .gl-btn-login {
+        margin: 0;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+    .p-sm-3{
+        padding-top: 15px;
+        padding-bottom: 15px;
+   }
+    .btn-login {
+        left: -1px;
+        width: -webkit-fill-available;
+        position: relative;
+        color: #fff;
+        background-color: #C8102E;
+        border-color: #C8102E;
+   }
+    .form-login .form-control {
+        width: -webkit-fill-available;
+        font-size: 0.8rem;
+   }
+    .login-container {
+        padding: 25px;
+        width: -webkit-fill-available;
+        margin: 0 auto;
+        margin-top: 50;
+        background-color: white;
+   }
+    .login-first-row{
+        background-color: white;
+        border-radius: 12px;
+        width: -webkit-fill-available;
+   }
+    .login-text{
+        font-size: 35px;
+        text-align: center;
+        position: relative;
+   }
+    .login-card{
+        position: relative;
+        top: 18px;
+        width: -webkit-fill-available;
+   }
+    .first-row-img img {
+        height: 154px;
+        width: 137px;
+        margin-left: -15px;
+        display: none;
+   }
+    .form-login {
+        margin-top: -26px;
+        width: -webkit-fill-available;
+        border-radius: 12px 0px 0px 12px;
+        margin: 0;
+   }
+    .mainblock-right-img {
+        display: none;
+   }
+    .spanstyle-subtext {
+        position: relative;
+        left: -10px;
+        font-size: 0.8rem;
+        color: #827F7F;
+        margin-top: 10px;
+        margin-bottom: 10px;
+   }
+    .span-already-have-account-login{
+        position: relative;
+        left: -10px;
+        font-size: 0.8rem;
+        color: #827F7F;
+        margin-top: 10px;
+        margin-bottom: 10px;
+   }
+    .fb-btn {
+        margin: 0 auto;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+    .gl-btn {
+        margin: 0 auto;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+    .form-register {
+        background-color: white;
+        margin-top: 15px;
+        border-radius: 12px 0px 0px 12px;
+        padding: 18px 20px -7px 25px;
+        position: relative;
+        left: -3px;
+        width: -webkit-fill-available;
+        height: -webkit-fit-content;
+        height: -moz-fit-content;
+        height: fit-content;
+   }
+}
+@media only screen and (max-width: 768px) {
+    .NearByLocation__currentLocation > div > * {
+        font-size: 14px;
+        line-height:38px;
+    padding: 0 10px;
+    }
+    .pad-10{
+        padding-top: 30px;
+   }
+    .pad-mob10{
+        padding: 0px 20px;
+   }
+    .ml-0px .rental-steps-wrap{
+        padding: 5px 0 15px !important;
+   }
+    #id4 h5 {
+        margin-top: 30px;
+   }
+   #id4 li {
+        margin-top: 10px;
+        margin-right: 0px;
+   }
+   #id6 h3 {
+        font-size: 28px;
+        margin-top: 15px;
+       /* margin-left: 36px;
+        */
+   }
+   #id6 span{
+        margin-top:10px;
+        margin-bottom:18px;
+   }
+    .pad-10 {
+        padding-top: 30px;
+   }
+    .spanrange {
+        top: 85px;
+   }
+    #i1 input{
+        width: 100%;
+   }
+    #i1 img {
+        margin-left: 0px;
+   }
+    #i1 .item2 a, #i1 .item3 a{
+        width: 100%;
+        margin-left: 0px !important 
+   }
+    #LoginFormPopup{
+        padding: 15px;
+   }
+    .container-fluid .login-container {
+        max-width: 1152px;
+   }
+    .form-login {
+        background-color: white;
+        margin-top: 22px;
+        border-radius: 12px 0px 0px 12px;
+        padding: 18px 20px -7px 25px;
+        position: relative;
+        width: 900;
+   }
+    #LoginFormPopup .modal-dialog {
+        max-width: 603px;
+        margin: 1.75rem auto;
+   }
+   .banner-section .banner-slider-section .slick-list .slick-track, .banner-section .banner-slider-section .slick-list .slick-slide * {
+    min-height: 100%;height: 100%;}
+   .nodata-for-rent-section p{font-size:18px;}
+}
+@media only screen and (max-width: 767px) {
+    h2, .h2{
+       font-size: 30px;
+       line-height: 38px;
+   }
+    h3, .h3 {
+        font-size: 28px;
+        line-height:35px;
+   }
+    h4, .h4 {
+        font-size: 26px;
+        line-height: 32px;
+   }
+    .pad-10{
+        padding-top: 30px;
+   }
+    .pad-mob10{
+        padding: 0px 20px;
+   }
+    #id6 h5 {
+        font-size: 30px;
+        margin-top: 0px;
+   }
+    #id4 h5 {
+        margin-top: 30px;
+   }
+   #id4 li {
+        margin-top: 10px;
+        margin-right: 0px;
+   }
+   #id6 h3 {
+        font-size: 28px;
+        margin-top: 20px;
+        margin-bottom: 10px !important 
+       /* margin-left: 36px;
+        */
+   }
+   #id6 span{
+        margin-top:10px;
+        margin-bottom:18px;
+   }
+    .pad-30 {
+        padding: 15px;
+   }
+    #id2 img {
+        margin-top: 30px;
+        max-height: 64px;
+        max-width: 80px;
+        height: auto;
+   }
+   .primary-bttn {
+        padding: 12px 25px;
+   }
+    .logo img {
+        max-width: 110px;
+   }
+    .info-wrapper {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    ul.info-list-wrap {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .location-wrap > div {
+        width: 100%;
+   }
+    .download-app-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+       padding:0;
+   }
+    .download-app-wrap .download-app-anchor {
+        border-left: 0;
+        margin-left: 0;
+        padding-left: 0;
+        margin-top: 30px;
+        width: 100%;
+        text-align: center;
+   }
+    .download-app-section {
+        padding: 48px 0 10px 0;
+   }
+    .special-offer-box .special-offer-box-wrap{
+       min-height: 200px;
+   }
+    .what-new-box-more-content p {
+        max-width: calc(100% - 50px);
+   }
+    .search-box-wrap .select-wrap-dropdown:first-child > label, .search-box-wrap .select-wrap-dropdown:first-child > .dropdown-toggle{
+       padding-left:0;
+   }
+    .search-box-wrap .select-wrap-dropdown, .search-box-wrap .select-wrap-dropdown:first-child,.search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+   }
+    .rental-detail-place {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .lease-left p {
+        margin-bottom: 15px;
+   }
+    .lease-left h3 {
+        margin-bottom: 10px;
+   }
+    .search-box-wrap {
+       padding: 20px 35px;
+       max-width: 450px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        border: 0;
+        padding: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown {
+        margin-bottom: 20px;
+   }
+    .search-box-wrap .select-wrap-dropdown + .select-wrap-dropdown {
+        border-top: 1.5px solid rgba(0, 0, 0, 0.2);
+       padding-top: 20px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        padding-top: 10px;
+   }
+    .more-car-slider-wrap .slick-list.draggable {
+        max-width: 100%;
+   }
+    .more-cars-slider img {
+        width: 100%;
+        height: auto;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+   }
+    .more-cars-slider h4, .more-cars-slider p, .more-car-bttns{
+       opacity:1;
+        visibility:visible;
+   }
+    .more-car-slider-wrap:before, .more-car-slider-wrap:after{
+       display:none;
+   }
+    .more-car-bttns {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .more-car-bttns .primary-bttn.primary-invert-bttn {
+        margin: 0 10px;
+   }
+    ul.nos-vehicle-list li label {
+        padding: 10px 12px;
+   }
+    .search-box-wrap button.search-bttn {
+        margin: 0 auto;
+   }
+    .banner-section .nav-tabs a + a {
+        margin-left: 40px;
+   }
+    .special-offer-content i.fa {
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        font-size: 16px;
+   }
+    .special-offer-content i:first-child {
+        max-width: calc(100% - 35px);
+   }
+    .navbar-collapse ul.navbar-nav {
+        max-width: 500px;
+   }
+    .navbar-collapse {
+        top: 126px;
+   }
+    .header-invert .call-header span {
+        display: none;
+   }
+    .header-invert .call-header img {
+        max-width: 20px;
+   }
+    .vehicle-box-design {
+        max-width: calc(50% - 12px);
+   }
+    .offer-box-wrapper .vehicle-box-design:nth-child(n + 4) {
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+   }
+    ul.rental-steps-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        max-width: 270px;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        margin: 0 auto;
+   }
+    ul.rental-steps-wrap li {
+        margin-left: 0;
+        margin-top: 30px;
+       width: 100%;
+   }
+    ul.rental-steps-wrap li:first-child {
+        margin-top: 0;
+   }
+    ul.rental-steps-wrap li img {
+        -webkit-transform: rotate( 89deg );
+        -ms-transform: rotate( 89deg );
+        transform: rotate( 89deg );
+   }
+    ul.rental-steps-wrap a{
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+       -webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+       text-align: center;
+       margin-bottom: 0;
+   }
+    ul.rental-steps-wrap a .rental-steps-title,ul.rental-steps-wrap li:last-child span {
+        width: 100%;
+        margin: 10px 20px;
+   }
+    ul.rental-steps-wrap li img {
+        margin-right: 0;
+        margin-left: 0;
+   }
+    .rental-detail-place > div {
+        text-align: center;
+   }
+    .rental-detail-place .rental-detail-place-right {
+        margin-left: 0;
+        margin-top: 10px;
+   }
+    .rental-detail-place-two:before {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 32%;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 5){
+       margin-left: 10px;
+       margin-top: 10px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(5),.offer-filter-wrap .filter-box:nth-child(8){
+       margin-left: 0;
+   }
+    .toggle-icon span {
+        width: 23px;
+        margin: 4px auto;
+   }
+    .toggle-icon.cross-toggle span.three {
+        -webkit-transform: rotate( -45deg ) translate(4px, -6px);
+        -ms-transform: rotate( -45deg ) translate(4px, -6px);
+        transform: rotate( -45deg ) translate(4px, -6px);
+   }
+    .toggle-icon.cross-toggle span.one {
+        -webkit-transform: rotate( 45deg ) translate(4px, 6px);
+        -ms-transform: rotate( 45deg ) translate(4px, 6px);
+        transform: rotate( 45deg ) translate(4px, 6px);
+   }
+    .top-left-menu-wrapper {
+        top: 69px;
+   }
+    .header-left-menu-section .row > div:not(:first-child){
+       border-left: 0;
+   }
+    .top-left-menu-wrapper {
+        overflow-y: auto;
+        height: calc(100vh - 150px);
+   }
+   /*new work*/
+    .flex-reversea img{
+        border-radius: 15px;
+        -o-object-fit: cover;
+        object-fit: cover;
+        height: auto;
+   }
+    #width-50 .col-lg-2{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+   }
+    #my-mob .rounded-bttn.ml-3{
+        margin-left: 0px !important;
+        margin-bottom: 10px;
+   }
+    #my-moba .d-flex.mx-5{
+        margin-left: 0px !important;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    #rentalprice .pickup-location-flex-content {
+        width: 100%;
+        margin-top: 10px;
+   }
+    .pickup-dropdown-box-design {
+        left: -50px !important;
+   }
+   
+    p, .p {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .primary-bttn {
+        padding: 12px 25px;
+   }
+    .ptb-80 {
+        padding: 40px 0;
+   }
+    .ptb-100{
+       padding:60px 0;
+   }
+    .logo img {
+        max-width: 110px;
+   }
+    .info-wrapper {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    ul.info-list-wrap {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+   ul.info-list-wrap li { margin-top: 5px; }
+    .location-wrap > div {
+        width: 100%;
+   }
+    .download-app-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+       padding:0;
+   }
+    .download-app-wrap .download-app-anchor {
+        border-left: 0;
+        margin-left: 0;
+        padding-left: 0;
+        margin-top: 30px;
+        width: 100%;
+        text-align: center;
+   }
+    .download-app-section {
+        padding:25px 0;
+   }
+    .special-offer-box .special-offer-box-wrap{
+       min-height: 200px;
+   }
+    .special-offer-box .special-offer-box-wrap.special-offer-big {
+        min-height: 400px;
+   }
+    .what-new-box-more-content p {
+        max-width: calc(100% - 50px);
+   }
+    .search-box-wrap .select-wrap-dropdown:first-child > label, .search-box-wrap .select-wrap-dropdown:first-child > .dropdown-toggle{
+       padding-left:0;
+   }
+    .search-box-wrap .select-wrap-dropdown, .search-box-wrap .select-wrap-dropdown:first-child,.search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+   }
+    .rental-detail-place {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .lease-left p {
+        margin-bottom: 15px;
+   }
+    .lease-left h3 {
+        margin-bottom: 10px;
+   }
+ 
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        border: 0;
+        padding: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown {
+        margin-bottom: 20px;
+   }
+    .search-box-wrap .select-wrap-dropdown + .select-wrap-dropdown {
+        border-top: 1.5px solid rgba(0, 0, 0, 0.2);
+       padding-top: 10px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        padding-top: 10px;
+   }
+    .more-car-slider-wrap .slick-list.draggable {
+        max-width: 100%;
+   }
+    .more-cars-slider img {
+        width: 100%;
+        height: auto;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+   }
+    .more-cars-slider h4, .more-cars-slider p, .more-car-bttns{
+       opacity:1;
+        visibility:visible;
+   }
+    .more-car-slider-wrap:before, .more-car-slider-wrap:after{
+       display:none;
+   }
+    .more-car-bttns {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .more-car-bttns .primary-bttn.primary-invert-bttn {
+        margin: 0 10px;
+   }
+    ul.nos-vehicle-list li label {
+        padding: 10px 12px;
+   }
+    ul.nos-vehicle-list li:nth-child(n + 5),ul.nos-vehicle-list.lease-tenure-radio li:nth-child(n + 5),ul.nos-vehicle-list.lease-tenure-radio li:nth-child(n + 4){
+        margin-left: 0;
+        margin-top: 10px;
+   }
+    .search-box-wrap button.search-bttn {
+        margin: 0 auto;
+   }
+    .banner-section .nav-tabs a + a {
+        margin-left: 40px;
+   }
+    .special-offer-content i.fa {
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        font-size: 16px;
+   }
+    .special-offer-content i:first-child {
+        max-width: calc(100% - 35px);
+   }
+    .navbar-collapse ul.navbar-nav {
+        max-width: 500px;
+   }
+    .navbar-collapse {
+        top: 126px;
+   }
+    .header-invert .call-header span {
+        display: none;
+   }
+    .header-invert .call-header img {
+        max-width: 20px;
+   }
+    .vehicle-box-design {
+        max-width: calc(50% - 12px);
+   }
+    .offer-box-wrapper .vehicle-box-design:nth-child(n + 4) {
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+   }
+    ul.rental-steps-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        max-width: 270px;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        margin: 0 auto;
+   }
+    ul.rental-steps-wrap li {
+        margin-left: 0;
+        margin-top: 30px;
+       width: 100%;
+   }
+    ul.rental-steps-wrap li:first-child {
+        margin-top: 0;
+   }
+    ul.rental-steps-wrap li img {
+        -webkit-transform: rotate( 89deg );
+        -ms-transform: rotate( 89deg );
+        transform: rotate( 89deg );
+   }
+    ul.rental-steps-wrap a{
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+       -webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+       text-align: center;
+       margin-bottom: 0;
+   }
+    ul.rental-steps-wrap a .rental-steps-title,ul.rental-steps-wrap li:last-child span {
+        width: 100%;
+        margin: 10px 20px;
+   }
+    ul.rental-steps-wrap li img {
+        margin-right: 0;
+        margin-left: 0;
+   }
+    .rental-detail-place > div {
+        text-align: center;
+   }
+    .rental-detail-place .rental-detail-place-right {
+        margin-left: 0;
+        margin-top: 10px;
+   }
+    .rental-detail-place-two:before {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+   }
+    .offer-filter-wrap .filter-box {
+        max-width: 32%;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 5){
+       margin-left: 10px;
+       margin-top: 10px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(5),.offer-filter-wrap .filter-box:nth-child(8){
+       margin-left: 0;
+   }
+    .toggle-icon span {
+        width: 23px;
+        margin: 4px auto;
+   }
+    .toggle-icon.cross-toggle span.three {
+        -webkit-transform: rotate( -45deg ) translate(4px, -6px);
+        -ms-transform: rotate( -45deg ) translate(4px, -6px);
+        transform: rotate( -45deg ) translate(4px, -6px);
+   }
+    .toggle-icon.cross-toggle span.one {
+        -webkit-transform: rotate( 45deg ) translate(4px, 6px);
+        -ms-transform: rotate( 45deg ) translate(4px, 6px);
+        transform: rotate( 45deg ) translate(4px, 6px);
+   }
+    .top-left-menu-wrapper {
+        top: 69px;
+   }
+    .header-left-menu-section .row > div:not(:first-child){
+       border-left: 0;
+   }
+    .top-left-menu-wrapper {
+        overflow-y: auto;
+        height: calc(100vh - 150px);
+   }
+    .booking-details-listing-right > span.h4 {
+        font-size: 26px;
+        line-height: 32px;
+   }
+   .booking-details-listing-right > span{font-size: 20px;line-height: 24px;}
+    .banner-section {
+        padding-top: 120px;
+   }
+    .banner-slider-section .slick-arrow{
+       display:none!important;
+   }
+    .download-app-wrap > a + a {
+        margin-left: 35px;
+   }
+    .download-app-wrap .download-app-anchor {
+        width: auto;
+        margin-top: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        width: auto;
+        border-top: 0;
+        padding-top: 0;
+        border-bottom: 0;
+        margin-bottom: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(2) {
+        border-bottom: 1.5px solid rgba(0, 0, 0, 0.2);
+   }
+    .search-box-wrap.promocode-offer-wrap .select-wrap-dropdown {
+        margin-bottom: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(1) {
+        margin-bottom: 0;
+   }
+    .search-box-wrap .select-wrap-dropdown a {
+        max-width: 180px;
+   }
+    .search-box-wrap button.search-bttn {
+        padding: 10px 20px;
+   }
+    .search-box-wrap .search-box-wrap.promocode-offer-wrap input::-webkit-input-placeholder{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .search-box-wrap .search-box-wrap.promocode-offer-wrap input::-moz-placeholder{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .search-box-wrap .search-box-wrap.promocode-offer-wrap input:-ms-input-placeholder{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .search-box-wrap .search-box-wrap.promocode-offer-wrap input::-ms-input-placeholder{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .search-box-wrap .select-wrap-dropdown a,.search-box-wrap .search-box-wrap.promocode-offer-wrap input, .search-box-wrap .search-box-wrap.promocode-offer-wrap input::placeholder{
+       font-size: 16px;
+       line-height: 22px;
+   }
+    .banner-section-content {
+        top: 20px;
+   }
+    ul.rental-steps-wrap {
+        max-width: 160px;
+   }
+    ul.rental-steps-wrap li:not(:last-child)::after {
+        top: auto;
+        -webkit-transform: translateY(0) rotate( 88deg );
+        -ms-transform: translateY(0) rotate( 88deg );
+        transform: translateY(0) rotate( 88deg );
+        bottom: -20px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+   }
+    .charges-option-per-day,.charges-option-up p{
+       width:auto;
+       margin-bottom: 0;
+       font-size: 12px;
+        line-height: 18px;
+   }
+    section.rental-section-mobile{
+       display:block;
+       margin-bottom: 30px;
+       margin-top: 10px;
+   }
+    section.rental-steps-section{ display:none; }
+   .custom-checkbox-2-wrap .custom-checkbox-2::before {
+		left: 3px;
+		top: 39%;
+		width: 4px;
+		height: 8px;
+	}
+	.banner-section-content h1 { max-width: 450px; }
+	.more-car-slider-wrap .slide-arrow {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		font-size: 30px;
+	}
+	.more-car-slider-wrap .slide-arrow i { line-height: 40px; }
+    .banner-section { padding: 0; position: relative; }
+    .banner-section-content { top: 0; position: relative; padding: 20px 0; background-color: transparent; }
+    .banner-section .banner-slider-section { position: absolute; width: 100%; height: 100%; }
+    .banner-section .banner-slider-section .slick-list { height: 100%; width: auto; }
+    .phone-quick, .phone-quick:hover { font-size: 20px; }
+    .email-quick, .email-quick:hover { font-size: 18px; }
+    #id2 h5 {font-size:26px;}
+    .other-products-news-image img { min-height: auto; }
+    .location-info-map iframe { max-height: 340px; width: 100%; }
+    .banner-section-content h1 { font-size: 20px; }
+    ul.check-box-listing li{font-size:18px;}
+    .custom-input-type-wrap input, .custom-input-select-wrap select, .custom-input-type-wrap select.filter-box { font-size: 16px; line-height: 22px; padding: 8px 12px; }
+    .StationDetails__headline a { margin-left: auto; display: block;margin-top: 5px;}
+    .StationDetails__wrapper .StationDetails__subline + .StationDetails__subline{margin-top: 5px;}
+    .StationDetails__wrapper .StationDetails__subline { font-size: 14px; line-height: 1.3; }
+    .box-shadow-white-box .border-right { border-right: 0!important; }
+    .product-nav-tabs .nav-link { padding: 10px 25px; border-radius: 20px; }
+    .product-nav-tabs {overflow-x: auto;overflow-y: hidden;flex-wrap: nowrap;padding-bottom: 10px !important;position: relative;}
+    .product-nav-tabs .nav-link { white-space: nowrap; }
+    .product-nav-tabs li.nav-item:last-child { margin-right:70px; }
+    .specilaOfferIndex { position: relative; }
+    .specilaOfferIndex:after {
+        content: '';
+        position: absolute;
+        width: 50px;
+        height: 100%;
+        right: 0;
+        top: 0;
+        background: rgb(255,255,255);
+        background: linear-gradient( 280deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+    }
+    .other-vehicle-type-wrapper .row > div:nth-child(n + 2) { margin-top: 30px; }
+     /*-- Search Module --*/
+    body.toggle-serach-bar {overflow: hidden;}
+    .StationHistory__stationInfo {max-height: 100%;}
+    .pickup-dropdown-box-wrapper {max-height: 100vh;overflow: auto;overflow-x: hidden;}
+    
+    .StationDetails__wrapper {min-height: auto;}
+    .StationDetails__wrapper .StationDetails__headline .text-red {margin-left: 10px;}
+    .pickup-dropdown-box-left {padding-top:25px;}
+    .StationHistory__title {font-size: 14px;}
+    .StationHistory__title img {max-width: 15px;max-height: 15px;}
+    .StationHistory__title1, .StationHistory__title2 {font-size: 14px;}
+    .NearByLocation__currentLocation input[type="text"] {width: 100%;max-width: calc(100% - 160px);}
+    
+    body .react-google-flight-datepicker .dialog-date-picker.open {
+        position: fixed;
+    transform: translateY(0);
+    max-width: 50%;
+    max-height: calc(100% - 51px);
+    top: 0;
+    }
+    .pickup-dropdown-box-wrapper.pickup-return-date-wrapper.date-model-wrap .confirm-mobile-btnn {bottom: 0px;}
+    body .react-google-flight-datepicker .day {flex-grow: 1;}
+    .pickup-time-dropdown-container {width:100%;margin-top: 0;padding-top: 0;border: 0;}
+    .pickup-time-dropdown-container .pickup-dropdown-days-wrap {width: 100%;}
+    .pickup-time-dropdown-container .pickup-dropdown-days-wrap1 {min-height: 56px;box-shadow: 0 0 2px rgb(0 0 0 / 12%), 0 2px 2px rgb(0 0 0 / 24%);position: sticky;top: 0;background-color: #ffffff;}
+    body .react-google-flight-datepicker .dialog-footer .submit-button {background-color: #C8102E;}
+    .pikcup-time-list-wrap ul {max-height: calc(100vh / 2 - 81px);}
+    .dialog-date-picker.open button.btn-outline.back-button {display: none;}
+    body .react-google-flight-datepicker .dialog-date-picker.open {max-width: 100%;}
+    body .react-google-flight-datepicker .dialog-date-picker.open .dialog-content {width: 350px;max-width: 100%;margin: 0 auto;background-color:#ffffff;}
+    .react-google-flight-datepicker .dialog-footer {
+        background-color: #C8102E;
+        justify-content: space-between;
+    }
+    body .react-google-flight-datepicker .dialog-date-picker.open .dialog-header{background-color: #C8102E;padding-top:25px;}
+    .react-google-flight-datepicker .dialog-footer button,.react-google-flight-datepicker .dialog-footer button.submit-button {
+        width: calc(50% - 10px);
+        background-color: #ffffff;
+        color: #000000;
+        text-transform: none;
+        border-radius: 8px;
+    }
+    body .react-google-flight-datepicker .calendar-wrapper {max-height: 100%;}
+    .dialog-date-picker .dialog-footer,.react-google-flight-datepicker .dialog-date-picker .dialog-footer {display:none;}
+    body .react-google-flight-datepicker .dialog-date-picker.open .dialog-header .date {
+        border: 0;
+        background-color: transparent;
+        height: auto;
+        color: #ffffff;
+    }
+    .react-google-flight-datepicker .selected-date {padding: 0;height: auto;}
+   
+    .react-google-flight-datepicker .date-picker-date-group .date:first-child::after {
+        content: 'Pickup Date';
+        position: absolute;
+        top: -18px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    .react-google-flight-datepicker .date-picker-date-group .date:last-child::after {
+        content: 'Return Date';
+        position: absolute;
+        top: -18px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    body .react-google-flight-datepicker .dialog-header .date-picker-input {height: auto;}
+    body .react-google-flight-datepicker .selected-date {font-family: 'product_sansbold';}
+    .pickup-time-dropdown-container .pickup-dropdown-days-wrap {padding: 0;}
+    .pikcup-time-wrap h3 {
+        font-size: 20px;
+        border-bottom: 1px solid rgb(0 0 0 / 20%);
+        padding: 10px 15px;
+        top: 0;
+        position: sticky;
+        font-family: 'product_sansbold';
+    }
+    .pikcup-time-list-wrap {padding: 0;}
+    /* .pikcup-time-list-wrap ul {max-height: calc(100vh - 110px);} */
+    .pikcup-time-wrap ul a {padding: 10px 20px;}
+    .confirm-mobile-btnn {background-color: #C8102E;text-align: center;padding: 10px;width:100%;position: fixed;bottom: 0;z-index: 9999999999;}
+
+    .confirm-mobile-btnn .primary-bttn {
+        background-color: #ffffff;
+        border-radius: 0;
+        color: #C8102E;
+        width: 100%;
+    }
+    .toggle-serach-bar .pickup-dropdown-box-design{display: flex; flex-wrap: wrap;}
+    .pickup-dropdown-box-wrapper.pickup-return-date-wrapper
+    .pickup-dropdown-box-left {width: 100%;}
+
+
+    .new-banner-section-content { position: relative; padding: 20px 0; top: auto; }
+    .right-search-box-col-wrap .promocode-box-wrap { width: calc(100% - 80px); margin-left: 0; }
+    .right-search-box-col-wrap .pickup-date-select-wrap { max-width: 100%; padding-bottom: 10px; margin-bottom: 10px; }
+    .new-search-box-wrap .right-search-box-col-wrap{border-top: 0;padding-top: 10px;margin-top: 10px;}
+    .pickup-return-date-wrap .pickup-return-date-left, .pickup-return-date-wrap .pickup-return-date-right { max-width: 47%; }
+    .pickup-return-date-wrap .pickup-return-date-left, .pickup-return-date-wrap .pickup-return-date-right { max-width: 47%; }
+    .right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle,.right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle.widget-time, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle.widget-time { width: 47%; }
+    .right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle.widget-time, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle.widget-time { justify-content: center; }
+    .right-search-box-col-wrap .promocode-offer-wrap { width: 100%; }
+    .right-search-box-col-wrap > .search-bttn{margin-left: auto;}
+    .new-search-box-wrap .select-wrap-section label, .right-search-box-col-wrap .pickup-return-date-left label, .right-search-box-col-wrap .pickup-return-date-right label, .promocode-offer-wrap .select-wrap-dropdown label { margin-bottom: 10px; }
+    .new-search-box-wrap .pick-up-location-modal .dropdown-toggle, .right-search-box-col-wrap .pickup-return-date-left .dropdown-toggle, .right-search-box-col-wrap .pickup-return-date-right .dropdown-toggle, .right-search-box-col-wrap .promocode-offer-wrap .select-wrap-dropdown input {
+        font-size: 18px;
+        padding-bottom:8px;
+    }
+    .new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap{padding-bottom: 8px;}
+    .new-more-car-slider-wrap.slick-slider.slick-dotted { max-width: 330px; }
+    .more-car-slider-wrap .slick-center{border:0;box-shadow:none;}
+    .less-fine-section .slick-slider.more-car-slider-wrap .slick-list { max-width: 420px; margin: 0 auto; }
+    .more-car-slider-wrap ul.slick-dots li{width:auto;margin:0 6px;}
+    .what-new-sectio .row > div:nth-child(n + 2){margin-top: 30px;}
+    .footer-top-wrap,.footer-bottom-wrap { padding: 40px 0; }
+
+    .what-new-box .what-new-box-more-content { padding: 20px 20px; min-height: auto; }
+    
+    .offer-filter-wrap{margin: 0 -8px;}
+    .offer-filter-wrap .what--new-box{padding:0 8px;}
+    .featture-box-wrap .feature-list li, .featture-box-wrap ul li { font-size: 14px; }
+
+    .month-rental-box-row div:nth-child(n + 2), .card-blog-left-row div:nth-child(n + 2) { margin-top: 20px; }
+    .month-rental-box-col, .card-blog-left-col { max-width: 100%; }
+    .titleBorderWrap h2 { font-size: 28px; }
+    .month-rental-box h3, .card-blog-left-content h3{margin:20px 0 10px;}
+    .month-rental-box img { width: 30px; max-height: 30px; }
+    .card-blog-left-content{max-width:100%;padding: 0 20px 20px;}
+    .what--new-link p { max-width: 100%; }
+    .new-search--Box-wrap-row .newsearchBoxwrap-Col:nth-child(n + 2) { width: 100%;}
+    .upgrade-option-modal-content .offer-box-wrapper .upgrade-slider-box-wrap{margin: 0;}
+    .upgrade-option-modal-content > .slick-slider .slick-list {
+        padding: 0;
+    }
+}
+@media only screen and (max-width:731px) {
+    .display-3 {
+        font-size:30px;
+        padding-top: 5px;
+   }
+    .btn4{
+        margin-right: 85px;
+   }
+    iframe{
+        width:95% 
+   }
+   
+    #search{
+        margin-top:1.5rem;
+        margin-left: 8rem;
+   }
+    #id1{
+        margin-left:4rem;
+        width:25rem;
+   }
+    #btn2{
+        margin-left:0.5rem;
+   }
+}
+@media screen and (max-width: 700px) {
+    .mainblock-right-img {
+        display: none;
+   }
+    .btn-register {
+        position: relative;
+        width: -webkit-fill-available;
+        color: #fff;
+        background-color: #C8102E;
+        border-color: #C8102E;
+   }
+    .form-register {
+        background-color: white;
+        border-radius: 12px;
+        margin-top: 15px;
+        height: -webkit-fit-content;
+        height: -moz-fit-content;
+        height: fit-content;
+   }
+    .tearms-checkbox {
+        margin-left: 20px;
+        font-size: 10px;
+   }
+    .contactbannerimg{
+        padding-left: 0px;
+        padding-right: 0px;
+        background-color: rgb(255, 255, 255);
+   }
+    .contactusform-right{
+        background-color: black;
+        position: relative;
+        padding: 20;
+   }
+    .imgstyle{
+        width: 290px;
+        height: 100px;
+        margin-right: 19px;
+        -o-object-fit: cover;
+        object-fit: cover;
+        position: relative;
+        left: 14px;
+        border-radius: unset;
+   }
+}
+@media only screen and (max-width:640px) {
+    #search{
+        margin-top:1rem;
+        margin-left: 5rem;
+   }
+    #id1{
+        margin-left:4rem;
+        width:20rem;
+   }
+    #btn2{
+        margin-left:-3rem;
+        width:20rem;
+   }
+}
+@media screen and (max-width: 600px) {
+    .login-container{
+        background-color: white;
+        margin: 25px;
+        padding: 25px;
+        width: -webkit-fill-available;
+   }
+    .form-login {
+        margin-top: -26px;
+        width: 346px;
+        border-radius: 12px 0px 0px 12px;
+       /* margin-left: 79px;
+        */
+        border-radius: 12px;
+        margin: 1;
+   }
+}
+
+@media only screen and (max-width: 575px) {
+    h2, .h2{
+       font-size: 28px;
+       line-height: 36px;
+   }
+    h3, .h3 {
+        font-size: 26px;
+        line-height:33px;
+   }
+    h4, .h4 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    p, .p {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    h2.border-botom, .h2.border-botom {
+        display: block;
+        text-align: center;
+   }
+    h2.border-botom:after, .h2.border-botom:after {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+   }
+    h2.border-botom + p {
+        text-align: center;
+   }
+   .search-box-wrap .select-wrap-dropdown.return-pickup-location-wrap:nth-child(1) .select-wrap-section{max-width:100%;}
+    .primary-bttn {
+        padding: 10px 20px;
+        font-size: 14px;
+        line-height: 14px;
+   }
+    .special-offer-title {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .more-car-slider-wrap{
+       margin-top: 40px;
+   }
+    .discount-sticker {
+        font-size: 12px;
+        line-height: 12px;
+       padding: 8px 12px;
+   }
+    .discount-sticker span {
+        font-size: 18px;
+        line-height: 18px;
+   }
+   ul.info-list-wrap li + li{margin-left:10px;}
+   ul.info-list-wrap a, .info-wrapper p, .info-wrapper a { font-size: 14px; line-height: 1; }
+    .footer-nav-wrap {
+        text-align: center;
+   }
+    ul.social-media-footer {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .special-offer-box .special-offer-box-wrap:before {
+        content: '';
+        padding-top: 50%;
+   }
+    .more-car-slider-wrap ul.slick-dots li button {
+        width: 12px;
+   }
+    .what-new-box .what-new-box-content {
+        padding: 10px;
+   }
+    .special-offer-box .special-offer-box-wrap.special-offer-big p.special-offer-content {
+        display: none;
+   }
+    .navbar-collapse ul.navbar-nav {
+        max-width: 100%;
+        padding: 0 10px;
+   }
+    .down-arrow {
+        height: 160px;
+        width: 160px;
+        margin-top: -130px;
+   }
+    ul.footer-navigation li {
+        width: 100%;
+        text-align: center;
+   }
+    .toggle-icon {
+        margin-right: auto;
+   }
+    .pickup-location-box-wrap .pickup-location-input, .pickup-location-box-wrap .pickup-location-input.group-input {
+        width: 100%;
+   }
+    .pickup-location-box-wrap {
+        padding: 15px 20px;
+   }
+    .pickup-location-box-wrap .pickup-location-input {
+        margin-bottom: 25px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 4) {
+        margin-top: 10px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(even) {
+        margin-left: 0;
+   }
+    .offer-filter-wrap .filter-box:nth-child(odd) {
+        margin-left: 5px;
+   }
+    .filter-box {
+        padding: 8px 10px;
+   }
+    .filter-box.custom-control.custom-switch .custom-control-label::before {
+        right: -46px;
+   }
+    .filter-box.custom-control.custom-switch .custom-control-label::after {
+        right: -26px;
+   }
+    .upgrade-option-modal-content {
+        padding: 20px 13px;
+       border-radius: 10px;
+   }
+    .box-shadow-white-box,.grand-total-wrap {
+        padding: 15px 10px !important;
+   }
+    .extra-box-range-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .extra-box-range-box-content {
+        width: 100%;
+        margin: 10px 0;
+   }
+    .input-quantity button{
+       width: 26px;
+       height: 26px;
+       font-size: 12px;
+   }
+    .input-quantity input {
+        width: 40px;
+        font-size: 18px;
+        line-height: 26px;
+        height: auto;
+   }
+    .continue-bttn, .continue-bttn:hover{
+        padding: 10px 54px;
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .save-time-info .media-body {
+        -webkit-box-flex: 100%;
+        -ms-flex: 100%;
+        flex: 100%;
+        margin-top: 10px;
+   }
+    .save-time-info {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .custom-input-type-file-wrap span {
+        margin-left: 0;
+        margin-top: 5px;
+   }
+    /* ul.booking-details-listing .booking-details-listing-left {
+        max-width: 60%;
+        width: 100%;
+   } */
+    .booking-details-listing-right {
+        max-width: 40%;
+        font-size: 14px;
+        line-height: 19px;
+   }
+   /*bew work*/
+    #partner-a .card {
+        height: 150px;
+   }
+    .pickup-dropdown-box-design {
+        left: -10px !important;
+   }
+    h2, .h2{
+       font-size: 28px;
+       line-height: 36px;
+   }
+    h3, .h3 {
+        font-size: 26px;
+        line-height:33px;
+   }
+    h4, .h4 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    p, .p {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    h2.border-botom, .h2.border-botom {
+        display: block;
+        text-align: center;
+   }
+    h2.border-botom:after, .h2.border-botom:after {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+   }
+    h2.border-botom + p {
+        text-align: center;
+   }
+    .primary-bttn {
+        padding: 10px 20px;
+        font-size: 14px;
+        line-height: 14px;
+   }
+    .special-offer-title {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .more-car-slider-wrap{
+       margin-top: 40px;
+   }
+    .discount-sticker {
+        font-size: 12px;
+        line-height: 12px;
+       padding: 8px 12px;
+   }
+    .discount-sticker span {
+        font-size: 18px;
+        line-height: 18px;
+   }
+    .footer-nav-wrap {
+        text-align: center;
+   }
+    ul.social-media-footer {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .special-offer-box .special-offer-box-wrap,.special-offer-box .special-offer-box-wrap.special-offer-big{
+       min-height:310px;
+   }
+    .special-offer-box .special-offer-box-wrap:before {
+        content: '';
+        padding-top: 50%;
+   }
+    .more-car-slider-wrap ul.slick-dots li button {
+        width: 12px;
+   }
+    .what-new-box .what-new-box-content {
+        padding: 10px;
+   }
+    .special-offer-box .special-offer-box-wrap.special-offer-big p.special-offer-content {
+        display: none;
+   }
+    .navbar-collapse ul.navbar-nav {
+        max-width: 100%;
+        padding: 0 10px;
+   }
+    .down-arrow {
+        height: 160px;
+        width: 160px;
+        margin-top: -130px;
+   }
+    ul.footer-navigation li {
+        width: 100%;
+        text-align: center;
+   }
+    .toggle-icon {
+        margin-right: auto;
+   }
+    .pickup-location-box-wrap .pickup-location-input, .pickup-location-box-wrap .pickup-location-input.group-input {
+        width: 100%;
+   }
+    .pickup-location-box-wrap {
+        padding: 15px 20px;
+   }
+    .pickup-location-box-wrap .pickup-location-input {
+        margin-bottom: 25px;
+   }
+    .promocode-offer-input, .pickup-location-input.group-input{
+       margin-top: 0;
+   }
+    .offer-filter-wrap .filter-box:nth-child(n + 4) {
+        margin-top: 10px;
+   }
+    .offer-filter-wrap .filter-box:nth-child(even) {
+        margin-left: 0;
+   }
+    .offer-filter-wrap .filter-box:nth-child(odd) {
+        margin-left: 5px;
+   }
+    .filter-box {
+        padding: 8px 10px;
+   }
+    .filter-box.custom-control.custom-switch .custom-control-label::before {
+        right: -46px;
+   }
+    .filter-box.custom-control.custom-switch .custom-control-label::after {
+        right: -26px;
+   }
+    .upgrade-option-modal-content {
+        padding: 20px 13px;
+       border-radius: 10px;
+   }
+    .extra-box-range-wrap {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .extra-box-range-box-content {
+        width: auto;
+        margin: 10px 0;
+   }
+    .input-quantity {
+        margin-top: 15px;
+   }
+    .input-quantity button{
+       width: 26px;
+       height: 26px;
+       font-size: 12px;
+   }
+    .input-quantity input {
+        width: 40px;
+        font-size: 18px;
+        line-height: 26px;
+        height: auto;
+   }
+    .continue-bttn, .continue-bttn:hover{
+        padding: 10px 54px;
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .save-time-info .media-body {
+        -webkit-box-flex: 100%;
+        -ms-flex: 100%;
+        flex: 100%;
+        margin-top: 10px;
+   }
+    .save-time-info {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+   }
+    .custom-input-type-file-wrap span {
+        margin-left: 0;
+        margin-top: 5px;
+   }
+    ul.booking-details-listing .booking-details-listing-left {
+        max-width: 60%;
+        /* width: 100%; */
+   }
+    .booking-details-listing-right {
+        max-width: 40%;
+        font-size: 14px;
+        line-height: 19px;
+   }
+    .booking-details-listing-right > span {
+        font-size: 18px;
+        line-height: 1.2;
+        margin-left: 5px;
+   }
+   .booking-details-listing-right > span.h4 { font-size: 20px; line-height: 1.2; }
+    .custom-input-type-file-wrap span {
+        width: 100%;
+        text-align: center;
+       max-width:320px;
+   }
+    .custom-input-type-file-wrap label {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        font-size: 16px;
+     line-height: 1;
+   }
+    .input-type-file-image-view {
+        margin: 8px 0;
+   }
+    .input-type-file-image-view img {
+        max-width: 70px;
+   }
+    .rounded-bttn {
+        padding: 9px 20px;
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .bttns-book-pay-wrap {
+        max-width: 320px;
+        margin: 0 auto;
+   }
+    ul.rental-policies-list li {
+        margin-right: 6px;
+        padding-right: 6px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-left: 10px;
+   }
+    .banner-section-content {
+        position: relative;
+        top: 0;
+        background-color: #c8102e;
+   }
+   .banner-section{
+    background-color: #c8102e;
+   }
+   ul.nos-vehicle-list {
+        flex-wrap: nowrap;
+        overflow: auto;
+        padding-bottom: 10px;
+    }
+    .header-top-info{display:none;}
+
+    ul.nos-vehicle-list li label {
+        padding: 10px 32px;
+    }
+   .banner-section .banner-slider-section {
+    opacity: 0;
+    }
+    .banner-section {
+        padding-top: 0;
+        padding-bottom: 0;
+   }
+    /* .select-wrap-dropdown.select-wrap-section-main .select-wrap-section {
+        max-width: 100%;
+        padding-left: 0;
+        text-align: center;
+   } */
+    .select-wrap-dropdown.select-wrap-section-main .return-pickup-wrap {
+        max-width: 100%;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .search-box-wrap .select-wrap-dropdown .pickup-return-date-wrap > div {
+        width: 100%;
+   }
+    .pickup-return-date-right:before {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        top: -6px;
+   }
+    .pickup-return-date-right {
+        margin-top: 10px;
+   }
+    .search-box-wrap .select-wrap-dropdown:nth-child(3) {
+        text-align: center;
+   }
+    .search-box-wrap.promocode-offer-wrap input {
+        text-align: center;
+   }
+    .search-box-wrap button.search-bttn {
+        margin-top: 10px;
+   }
+    .download-app-wrap {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+   }
+    .download-app-wrap .download-function-anchor,.download-app-wrap .download-function-anchor:first-child {
+        margin-left: auto;
+        margin-right: auto;
+   }
+    .download-store-app + .download-store-app {
+        margin-left: 0;
+   }
+    .download-store-app {
+        margin-top: 13px;
+   }
+    .subscriber-container h2 {
+        text-align: center;
+   }
+    .rental-steps-mobile-center h4 {
+        font-size: 14px;
+        line-height: 20px;
+   }
+    .rental-steps-mobile-center p {
+        font-size: 10px;
+        line-height: 16px;
+   }
+    .rental-steps-mobile-center {
+        max-width: 60%;
+       padding-right: 3px;
+   }
+    .rental-steps-mobile-left {
+        margin-right: 10px;
+        padding-left: 14px;
+        padding-right: 0;
+        width: 40px;
+   }
+    .rental-steps-mobile-right{
+       margin-right: 10px;
+   }
+   .lease-tabs-content{margin-top: 10px;}
+   ul.nos-vehicle-list li { margin-top: 5px !important; margin-left: 5px !important; }
+   .contact-us-quick-box h5 + p { font-size: 18px; }
+   .phone-quick, .phone-quick:hover { font-size:18px; }
+   .email-quick, .email-quick:hover { font-size:16px; }
+   #partner h3 { font-size:18px; line-height: 30px; }
+   .pickup-location-flex-content h3 { width: calc(100% - 90px); }
+   #id2 h5 {font-size:26px;}
+   .font-18 { font-size: 16px; line-height: 1.4; }
+   .location-info-map iframe { max-height: 340px; width: 100%; }
+    .location-info-box h5 { font-size: 22px; line-height: 1.2; }
+    .location-info-box h5 a { font-size: 12px; }
+    .location-info-box .my-fonta { font-size: 14px; line-height: 1.2; }
+    .location-info-box .my-fonta + .my-fonta { margin-top: 10px; }
+    .location-info-box-right .rounded-bttn { padding: 8px 14px; font-size: 14px; }
+    .panel-heading .accordion-toggle:after { top: 0px; }
+    body .contactusform-right .tinyicon {min-width: 40px;height: 40px;}
+    body .contactusform-right .tinyicon img { max-width: 20px; }
+    body .contactusform-right .tinyicon1 {min-width: 40px;height: 40px;}
+    body .contactusform-right .tinyicon1 img { max-width: 20px; }
+    body .contactusform-right .spans h4 { font-size: 16px; line-height: 1; }
+    body .contactusform-right .spans a { line-height: 1; }
+    body #partner  .contactusform-right .spans a span { margin-top: 0; font-size: 14px; }
+    .faq-wrapper h4.panel-title { font-size: 16px; line-height: 1.4; }
+    .categories-box-col { width:100%; }
+   .express-box-wrap>div:nth-child(n+2) { margin-top: 30px; }
+   h5, .h5 { font-size: 20px; line-height: 1.4; }
+   .categories-box-content { padding: 20px 0; }
+   .monthlyrentalPage .pickup-location-box { text-align: center; }
+   .categories-box-col{width:100%;}
+   .categories-box-wrap > div:nth-child(n + 2) { margin-top: 30px; }
+   .socialMediaSection .try-our-app-section + .follow-us-section { margin-top: 50px; }
+   .socialMediaSection h3 { font-size: 20px; margin-bottom: 20px; }
+   .number-rating-wrap { justify-content: flex-start; }
+   .number-rating-wrap label + label { margin-left: 10px; }
+   .vehicle-box-design .charges-option-up a,.vehicle-box-design .similar-text { font-size: 12px; line-height: 1; }
+   .vehicle-box-design h3 { font-size: 18px;line-height:1;}
+   .vehicle-box-detail-left .check-box-listing li span { font-size: 16px; }
+   .mobile-view-list ul.feature-list li { margin-left:15px; }
+   .mobile-view-list ul.feature-list { display: flex; flex-wrap: wrap; margin: 0 -15px; }
+   .box-shadow-grey-box { padding: 15px; }
+   .express-row .categories-box-col{width:100%;}
+   .nodata-for-rent-section p{font-size:18px;}
+   body .react-google-flight-datepicker .day,body .react-google-flight-datepicker .day::after {width: 30px;height: 30px;}
+   .extra-box-range-wrap .extra-box-range-box {display: none;}
+   .modify-reservation-border {flex-wrap: wrap;justify-content: flex-start;}
+    #reserve .pickup-location-box h5 {font-size: 18px;}
+    #reserve .rental-steps-wrap a:before {width: 20px;height: 20px;font-size: 13px;line-height: 20px;}
+    #reserve .pickup-location-box {padding: 20px 0 20px 10px;}
+    #reserve h5.promocode-applied-box {font-size: 14px;padding: 8px 8px;border-radius: 5px;}
+    .supportUpcoming-rental-box h5 {font-size: 18px;}
+    .reservation-confirmation .StationDetails__wrapper h3.StationDetails__headline {width: 100%;}
+    .reservation-confirmation #labelcust label, .reservation-confirmation #labelcust p {font-size: 14px;}
+    .reservation-confirmation #labelcust label {min-width: 105px;}
+    .booking-details-listing-left.text-18 {font-size: 15px;}
+    .booking-details-listing-left .text-16 {font-size: 12px;}
+    header.header-nav.header-invert .call-header {margin-right: 10px;margin-left: 0;}
+
+    .footer-nav-menu-wrap .nav-item-ul > li { width: 100%; }
+    .footer-nav-menu-wrap.first .nav-item-ul li:not(:nth-child(n + 4)) { margin-top: 20px; }
+    .footer-nav-menu-wrap h4 {text-align: center;}
+    .footer-nav-menu-wrap.first .nav-item-ul li:first-child { margin-top: 0; }
+    .footer-nav-menu-wrap .nav-item-ul { justify-content: center; text-align: center; }
+    .footer-bottom-wrap { text-align: center; }
+    .footer-bottom-wrap h5.empty { display: none; }
+    .copyright-footer { padding: 1px 0 9px; }
+    .find-location-section { padding: 50px 0; }
+    .new-oddEven-title-left { max-width: calc(100% - 100px); width: 100%; }
+    .new-oddEven-title-wrap > div { max-width: 100%; }
+    .new-oddEven-title-right { margin-top: 20px; }
+    .new-oddEven-title-wrap { justify-content: center; text-align: center; }
+    
+    .offer-box-section > div > h3 {margin-bottom: 10px;padding-bottom: 10px;}
+    .vehicle-type-box + .vehicle-type-box{margin-left: 10px;}
+    .congrts-scnpg-red-strip { flex-wrap: wrap; }
+    .congrts-scnpg-red-right { margin-top: 10px; width: 100%; justify-content: center; }
+    .congrts-scnpg-red-strip h2 { text-align: center; width: 100%; }
+
+    .confirmBookingTitle h3 { font-size: 20px; }
+    .confirmBookingTitle h4 { font-size: 16px; }
+    .confirmBookingTitle h4 span { font-size: 12px; }
+    .confirmBookingTitle h2 { font-size: 22px; }
+    .booking-summary-right h4.paymode { font-size: 20px; margin-top: 26px; } 
+    .link-booking-bttn-wrap > a + a { margin-top: 16px; margin-left: 0; }
+    .link-booking-bttn-wrap > a { width: 100%; }
+    .rental-policy-confirm .box-shadow-white-box{padding:40px 0 !important;}
+    .new-search--Box-wrap-row .newsearchBoxwrap-Col:nth-child(n + 2){width:100%;}
+    .new-search--Box-wrap-row > div:nth-child(n + 2) { margin-top:20px; }
+
+    .titleBorderWrap h2{font-size:24px;line-height:1.4;}
+    .newsearchBox-promocode-wrap > .monthly-top-margin{margin-top: 0 !important;}
+    .offer-filter-wrap .what--new-box {
+        max-width: 33.33%;
+    }
+}
+@media only screen and (max-width: 530px) {
+    .offer-filter-wrap .filter-box {
+        max-width: 49%;
+   }
+    .vehicle-box-design {
+        max-width: 100%;
+   }
+    section.offer-box-section .offer-box-wrapper {
+        max-width: 380px;
+        margin: 0 auto 50px;
+   }
+    .feature-vehicle-box .feature-icon + .feature-icon {
+        margin-left: 8px;
+        padding-left: 8px;
+   }
+    .vehicle-box-detail-wrap {
+        padding: 20px 0px;
+   }
+    .included-wrapper-featured, .featured-rent-price-radio {
+        padding-top: 15px;
+        margin-top: 15px;
+   }
+    .featured-rent-radio label span {
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .vehicle-detail-slider-wrap .slide-arrow {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+   }
+    .vehicle-detail-slider-wrap .slide-arrow.prev-arrow {
+        left: -10px;
+   }
+    .vehicle-detail-slider-wrap .slide-arrow.next-arrow {
+        right: -10px;
+   }
+    .vehicle-box-detail-right-content h4 {
+        font-size:18px;
+        line-height:1.2;
+   }
+    input.input-custom.input-location,input.input-custom.input-date,input.input-custom.input-time {
+        background-size: 12px auto;
+       background-position: center left 10px;
+   }
+    input.input-custom {
+        padding: 12px 30px;
+   }
+   .box-shadow-white-box-special-a { padding: 22px 20px; }
+   
+}
+@media only screen and (max-width: 430px) {
+    .download-app-wrap a{
+       width:100%;
+       text-align: center;
+   }
+    .download-app-wrap > a + a{
+       margin-left: 0;
+       margin-top: 15px;
+   }
+    .download-app-wrap .download-app-anchor {
+        margin-top: 0;
+   }
+    .more-car-bttns .primary-bttn.primary-invert-bttn {
+        max-width: 237px;
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+        margin: 0;
+        width: 100%;
+        margin-top: 10px;
+   }
+    .more-car-bttns .primary-bttn:first-child {
+        margin-right: 15px;
+   }
+    .login-register-wrap:before{
+       margin-right: 0;
+   }
+    .dropdown.country-dropdown button span {
+        display: none;
+   }
+    .dropdown.country-dropdown button i {
+        display: inline-block;
+   }
+    .dropdown.country-dropdown button {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: end;
+        -ms-flex-align: end;
+        align-items: end;
+   }
+    .dropdown.country-dropdown .dropdown-menu.show {
+        right: 0;
+        left: auto;
+   }
+    .book-now-all-bttns-wrap .book-now-btttn{
+       max-width:100%;
+       margin-bottom: 10px;
+   }
+    .book-now-all-bttns-wrap .book-now-all.book-now-email {
+        margin-left: 0;
+   }
+    .promocode-offer-input {
+        max-width: 100%;
+       margin-bottom: 25px;
+   }
+    .important-info-start-bg-stick,.important-info-start-stick{
+       font-size: 12px;
+       line-height: 17px;
+   }
+   .follow-us-strip-banner h4 {
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .follow-us-strip-banner .social-media-footer {
+        margin-left: 0;
+    }
+    /*-- Search Module --*/
+    .NearByLocation__currentLocation {flex-wrap: wrap;justify-content: flex-start;}
+    .NearByLocation__currentLocation input[type="text"] {max-width: 100%;margin-bottom: 10px;}
+    .NearByLocation__currentLocation img {display: none;}
+    .StationDetails__wrapper .StationDetails__headline .text-red {margin-top:0;}
+    .mobile-profile-menu {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 90px;
+        background-color: #C8102E;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        transform: translateY(20px);
+        opacity: 0;
+        visibility: hidden;
+        transition:0.3s all ease-in-out;
+    }
+    
+    .mobile-profile-menu a + a {
+        border-left: 0;
+        margin-left: 0;
+    }
+    
+    .login-register-wrap {
+        position: relative;
+    }
+    
+    .login-register-wrap .mobile-profile-menu a {
+        color: #ffffff;
+        padding: 5px 10px;
+        width: 100%;
+        font-size: 14px;
+        line-height: 1;
+    }
+    .login-register-wrap.toggle .mobile-profile-menu {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+        z-index: 99;
+    }
+
+    .new-search-box-wrap .pick-up-location-modal, .new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap,.pickup-return-date-wrap .pickup-return-date-left, .pickup-return-date-wrap .pickup-return-date-right { max-width: 100%; }
+    .new-search-box-wrap > .new-select-wrap-dropdown .new-return-pickup-wrap { margin-top: 20px; }
+    .select-wrap-dropdown.select-wrap-section-main .select-wrap-section{max-width:100%;}
+    .select-wrap-dropdown.select-wrap-section-main .select-wrap-section + .select-wrap-section { margin-top: 10px; }
+
+    .new--banner-section-content .pickup-dropdown-box-wrapper { padding:10px; }
+    .new--banner-section-content .pickup-dropdown-box-wrapper{width:100%;}
+    .pickup-dropdown-box-left .NearByLocation__currentLocation button + button { margin-left: 8px; }
+    .pickup-dropdown-box-wrapper .pickup-dropdown-box-left .NearByLocation__currentLocation button { font-size: 9px; }
+    .yourLocation-wrap .close-info { top: 10px; }
+    .new--banner-section-content .pickup-dropdown-box-wrapper.yourLocation--box .pickup-dropdown-box-left .NearByLocation__currentLocation > div{width:100%;}
+    .new--banner-section-content .NearByLocation__currentLocation + .NearByLocation__currentLocation > div + *{margin-top:10px !important;margin-left: 0 !important;}
+    .view-details-wrap .modal-footer .rounded-bttn { width: 100%; text-align: center; }
+
+    .offer-filter-wrap .what--new-box {
+        max-width: 50%;width:50%;
+    }
+    .monthly-sub-wrap .what--new-box .what--new-link{width:100%;}
+}
+
+@media only screen and (max-width: 400px) {
+    .choose-vehicle-title h3{width:100%;}
+    .vehicle-type-box .dropdown-menu{
+        left:0 !important;
+        right:auto;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .gl-btn-login {
+        margin: 0;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+    .fb-btn-login {
+        float: right;
+        margin: 0;
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+   }
+
+
+
+   .congrts-title-wrap h1 { font-size: 26px; }
+   .congrts-title-wrap p { font-size: 16px; }
+   .congrts-scnpg-red-right .box-title-icon-border + .box-title-icon-border { margin-left: 18px; }
+   .congrts-scnpg-red-right h4 { font-size: 14px; }
+   .box-title-icon-border .box-title-icon-rounded { width: 16px; height: 16px; line-height: 16px; }
+   .featture-box-wrap .feature-list li, .featture-box-wrap ul li { width: 100%; }
+   .featture-box-wrap .feature-list li + li { border-left: 0; }
+   .booking-summary-section { padding: 12px; }
+   .pickup-location-box--wrap { padding-left: 20px; }
+   .pickup-location-dots i.dots { left: -26px; }
+   .confirmBookingTitle h3 { font-size: 18px; }
+   .confirmBookingTitle h2 { font-size: 20px; }
+   .reservation-confirmation #labelcust p { word-break: break-all; }
+   .booking-summary-right h4.paymode { font-size: 17px; line-height: 1.2; }
+   .confirmBookingTitle h4:not(.text-red) { max-width: 160px; }
+   .confirmBookingTitle h4 { font-size: 14px; }
+   .confirmBookingTitle h2{font-size:18px;}
+
+}
+
+
+@media all and (device-width: 320px) and (device-height: 568px) and (orientation:portrait) {
+    .socialbtn-row {
+        margin: 0 auto;
+        margin-left: -11px;
+   }
+}
+@media all and (device-width: 280px) and (device-height: 653px) and (orientation:portrait){
+    .socialbtn-row {
+        margin: 0 auto;
+        margin-left: -21px;
+   }
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+    .login-card {
+        position: relative;
+        top: -12px;
+        width: -webkit-fill-available;
+        left: 22px;
+   }
+    .first-row-img img {
+        height: 523px;
+        width: initial;
+        margin-left: -26px;
+        border-radius: 12px;
+        display: block;
+   }
+    .register-row {
+        margin-bottom: 30px;
+        background-color: white;
+   }
+    .btn-register {
+        position: relative;
+        left: -10;
+        width: 350;
+        color: #fff;
+        background-color: #C8102E;
+        border-color: #C8102E;
+   }
+    .gl-btn {
+        margin-left: -63px;
+   }
+    .mainblock-right-img {
+        display: block;
+        width: 375px;
+        height: 700;
+        top: 00;
+        border-radius: 0px 0px 12px 12px;
+   }
+    .reg-main-img img {
+        width: 500;
+        height: 924px;
+        display: none;
+   }
+}
+
+.logged-in {
+    background-color: #ffffff !important;
+}
+
+.tinyicon1 img {
+    border-radius: 6px !important;
+}

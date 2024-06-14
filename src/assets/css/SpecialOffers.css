@@ -1,0 +1,958 @@
+/* .x_offer_tabs_wrapper .nav-tabs .nav-link {
+    border-radius: 0;
+    color: #111;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    font-family: Raleway, sans-serif;
+}
+
+
+.x_offer_tabs_wrapper .nav-tabs .nav-item.show .nav-link, .x_offer_tabs_wrapper .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: transparent;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Raleway, sans-serif;
+}
+
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.x_offer_tabs_wrapper .nav-tabs .nav-link {
+    border-radius: 0;
+    color: #111;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    font-family: Raleway, sans-serif;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+.nav-link {
+    display: block;
+   
+}
+
+.special_offer_prodBox .special-Label {
+    text-align: center;
+    margin-top: -2px;
+    border-top: 2px solid #dc3545;
+    margin-bottom: 15px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.special_offer_section {
+    background-color: #f1f1f1;
+}
+
+    .special_offer_section .x_offer_car_heading_wrapper {
+        padding-bottom: 44px;
+    }
+
+.special_offer_prodBox .special-Label {
+    text-align: center;
+    margin-top: -2px;
+    border-top: 2px solid #dc3545;
+    margin-bottom: 15px;
+}
+
+    .special_offer_prodBox .special-Label .special_text {
+        display: inline-block;
+        background-color: #dc3545;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 30px;
+        width: 200px;
+        height: 38px;
+        color: #fff;
+        line-height: 31px;
+        font-size: medium;
+    }
+
+.special_offer_prodBox .x_car_offer_img {
+    padding: 5px 10px 0;
+}
+
+.special_offer_prodBox .special-heading {
+    text-align: center;
+}
+
+.special_offer_prodBox .rental-type {
+    color: #9c9c9c;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.special_offer_prodBox .prodValid {
+    font-size: 14px !important;
+    font-family: Lato, sans-serif !important;
+    margin-bottom: 10px !important;
+    color: #111;
+}
+
+.special_offer_prodBox .Productprice {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    color: #3455d0;
+    min-height: 50px;
+    padding: 0 15px;
+    line-height: 23px;
+}
+
+.special_offer_prodBox .special-prod-desc {
+    padding: 5px 15px;
+    text-align: center;
+}
+
+    .special_offer_prodBox .special-prod-desc p {
+        min-height: 50px;
+    }
+
+    .special_offer_prodBox .special-prod-desc p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+.special_offer_prodBox .special_offer_btn {
+    display: inline-block;
+    text-align: center;
+    background-color: #dc3545;
+    color: #fff;
+    border-radius: 5px;
+    line-height: initial;
+    height: 40px;
+    width: 120px;
+    line-height: 35px;
+    margin-left: auto;
+}
+
+     .special_offer_prodBox .special_offer_btn:focus, .special_offer_prodBox .special_offer_btn:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+
+.special-offer-footer {
+    display: flex;
+    margin: 10px 0;
+}
+
+.special_offer_prodBox .special_offer_icon {
+    width: 45px;
+    height: 40px;
+    line-height: 39px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.special_offer_prodBox .x_car_offer_bottom_btn {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.ml_15 {
+    margin-left: 15px;
+}
+
+.special_offer_icon.phone_call:hover {
+    background-color: #2fa6fd;
+    color: #fff;
+    border: 1px solid #2fa6fd;
+}
+
+.special_offer_icon.whats-app-color:hover {
+    background-color: #48c704;
+    color: #fff;
+    border: 1px solid #48c704;
+}
+
+.countdown_list {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+    .countdown_list li {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+
+.special_offer_prodBox .special_prod_img {
+    min-height: 175px;
+    max-height: 175px;
+}
+
+.x_car_offer_ul_spec {
+    overflow: hidden;
+}
+
+    .x_car_offer_ul_spec li {
+        width: calc(100% / 3);
+        float: left;
+        display: flex;
+        align-items: center;
+        padding: 7px 0 7px 15px;
+    }
+
+        .x_car_offer_ul_spec li p.heading_text {
+            line-height: 13px;
+            font-size: 13px;
+            color: #abaaaa;
+        }
+
+        .x_car_offer_ul_spec li i.icon-color {
+            color: #a0a0a0;
+        }
+
+        .x_car_offer_ul_spec li p.text_detail_color {
+            font-size: 13px;
+            color: #7d7d7d;
+        }
+
+        .x_offer_car_main_wrapper {
+            background: #f9f9f9;
+        }
+        
+        .x_offer_car_heading_wrapper {
+            text-align: center;
+        }
+        
+            .x_offer_car_heading_wrapper h4 {
+                font-size: 14px;
+                font-family: Lato, sans-serif;
+                color: #ff8e18;
+                text-transform: uppercase;
+            }
+        
+            .x_offer_car_heading_wrapper h3 {
+                font-size: 30px;
+                font-weight: 800;
+                text-transform: uppercase;
+                padding-top: 20px;
+                position: relative;
+            }
+        
+                .x_offer_car_heading_wrapper h3:after {
+                    content: '';
+                    position: absolute;
+                    width: 30px;
+                    -webkit-border-radius: 2px;
+                    -moz-border-radius: 2px;
+                    border-radius: 2px;
+                    left: 0;
+                    right: 0;
+                    bottom: -20px;
+                    margin: 0 auto;
+                    height: 3px;
+                    background-color: #ff9923;
+                }
+        
+            .x_offer_car_heading_wrapper p {
+                padding-top: 40px;
+            }
+
+
+            .x_offer_tabs_wrapper {
+                text-align: center;
+            }
+            
+                .x_offer_tabs_wrapper h2 {
+                    font-size: 26px;
+                    color: #111;
+                    font-weight: 600;
+                    display: inline-block;
+                }
+            
+                .x_offer_tabs_wrapper .nav {
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+                    display: inline-block;
+                    background: #fff;
+                    box-shadow: 0 0 8px rgba(0, 0, 0, .1);
+                    border-bottom: 0;
+                    -webkit-border-radius: 10px;
+                    -moz-border-radius: 10px;
+                    border-radius: 10px;
+                }
+            
+                .x_offer_tabs_wrapper .nav-tabs li:first-child .nav-link.active {
+                    -webkit-border-top-left-radius: 10px;
+                    -moz-border-top-left-radius: 10px;
+                    border-top-left-radius: 10px;
+                    -webkit-border-bottom-left-radius: 10px;
+                    -moz-border-bottom-left-radius: 10px;
+                    border-bottom-left-radius: 10px;
+                }
+            
+                .x_offer_tabs_wrapper .nav-tabs li:last-child .nav-link.active {
+                    -webkit-border-top-right-radius: 10px;
+                    -moz-border-top-right-radius: 10px;
+                    border-top-right-radius: 10px;
+                    -webkit-border-bottom-right-radius: 10px;
+                    -moz-border-bottom-right-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                }
+            
+                .x_offer_tabs_wrapper .nav-tabs .nav-link:focus, .x_offer_tabs_wrapper .nav-tabs .nav-link:hover {
+                    border-color: transparent;
+                }
+            
+                .x_offer_tabs_wrapper .nav li {
+                    float: left;
+                }
+            
+                .x_offer_tabs_wrapper .nav-tabs .nav-item.show .nav-link, .x_offer_tabs_wrapper .nav-tabs .nav-link.active {
+                    color: #fff;
+                    background-color: #dc3545;
+                    border-color: transparent;
+                    font-size: 14px;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    font-family: Raleway, sans-serif;
+                }
+            
+                .x_offer_tabs_wrapper .nav-tabs .nav-link {
+                    border-radius: 0;
+                    color: #111;
+                    font-size: 14px;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    padding: 12px 30px;
+                    font-family: Raleway, sans-serif;
+                }
+            
+        
+                .x_car_offer_main_boxes_wrapper:hover {
+                    background: #fff;
+                    box-shadow: none;
+                    border: 2px solid #dc3545;
+                    -webkit-transition: all .5s;
+                    -o-transition: all .5s;
+                    -ms-transition: all .5s;
+                    -moz-transition: all .5s;
+                    transition: all .5s;
+                }
+            
+            .x_car_offer_starts {
+                padding: 25px;
+            }
+            
+                .x_car_offer_starts i {
+                    color: #edcc30;
+                }
+            
+            .x_car_offer_img, .x_car_offer_price {
+                text-align: center;
+            }
+            
+            .x_car_offer_price_inner {
+                margin-top: 50px;
+                display: inline-block;
+                width: 120px;
+                height: 50px;
+                border: 1px solid #eee;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                text-align: center;
+                background: #fff;
+                z-index: 1;
+                position: relative;
+            }
+            
+            .x_car_offer_price {
+                position: relative;
+            }
+            
+                .x_car_offer_price:after {
+                    content: '';
+                    border: 1px solid #eee;
+                    width: 100%;
+                    position: absolute;
+                    left: 0;
+                    right: 0;
+                    margin: 0 auto;
+                    top: 75px;
+                }
+            
+            .x_car_offer_price_inner h3 {
+                font-family: Lato,sans-serif;
+                font-size: 20px;
+                color: #929292;
+                font-weight: 800;
+                line-height: 45px;
+                display: inline-block;
+                letter-spacing: 0.6px;
+            }
+            
+            .x_car_offer_price_inner p {
+                color: #111;
+                text-transform: uppercase;
+                font-size: 11px;
+                display: inline-block;
+                line-height: 13px;
+                font-weight: 900;
+                font-style: italic;
+                position: relative;
+            }
+            
+                .x_car_offer_price_inner p span {
+                    position: absolute;
+                    font-weight: 100;
+                    font-style: normal;
+                    left: 4px;
+                    font-size: 9px;
+                }
+            
+            .x_car_offer_heading {
+                text-align: center;
+            }
+            
+                .x_car_offer_heading h2 {
+                    padding-top: 0;
+                    font-family: Lato, sans-serif;
+                }
+            
+                    .x_car_offer_heading h2 a {
+                        font-size: 16px;
+                        color: #111;
+                        font-weight: 700;
+                        text-transform: uppercase;
+                    }
+            
+                        .x_car_offer_heading h2 a:hover {
+                            color: #dc3545;
+                        }
+            
+                .x_car_offer_heading ul {
+                    width: 100%;
+                    float: left;
+                    border-top: 1px solid #eee;
+                    border-bottom: 1px solid #eee;
+                    margin-top: 35px;
+                }
+            
+                .x_car_offer_heading li {
+                    float: left;
+                    width: 25%;
+                    border-left: 1px solid #eee;
+                }
+            
+                    .x_car_offer_heading li a {
+                        float: left;
+                        width: 100%;
+                        padding-top: 10px;
+                        padding-bottom: 10px;
+                    }
+            
+                    .x_car_offer_heading li:first-child {
+                        border-left: 0;
+                    }
+            
+                    .x_car_offer_heading li a i {
+                        color: #dc3545;
+                    }
+            
+                .x_car_offer_heading .nice-select {
+                    border: 0;
+                    border-radius: 0;
+                    display: inline-block;
+                    float: none;
+                    background: 0 0;
+                    line-height: 50px;
+                    -webkit-border-top-left-radius: 10px;
+                    -moz-border-top-left-radius: 10px;
+                    border-top-left-radius: 10px;
+                    -webkit-border-bottom-left-radius: 10px;
+                    -moz-border-bottom-left-radius: 10px;
+                    border-bottom-left-radius: 10px;
+                }
+            
+                    .x_car_offer_heading .nice-select.open .list {
+                        padding-left: 15px;
+                    }
+            
+                    .x_car_offer_heading .nice-select:after {
+                        border-bottom: 1px solid #c6c8cb;
+                        border-right: 1px solid #c6c8cb;
+                        content: '';
+                        display: block;
+                        height: 6px;
+                        margin-top: -2px;
+                        pointer-events: none;
+                        position: absolute;
+                        right: 22px;
+                        top: 50%;
+                        -webkit-transform-origin: 66% 66%;
+                        -ms-transform-origin: 66% 66%;
+                        transform-origin: 66% 66%;
+                        -webkit-transform: rotate(45deg);
+                        -ms-transform: rotate(45deg);
+                        transform: rotate(45deg);
+                        -webkit-transition: all .15s ease-in-out;
+                        transition: all .15s ease-in-out;
+                        width: 6px;
+                    }
+            
+                    .x_car_offer_heading .nice-select .list {
+                        left: auto;
+                        right: 10px;
+                    }
+            
+                    .x_car_offer_heading .nice-select.open:after {
+                        -webkit-transform: rotate(-135deg);
+                        -ms-transform: rotate(-135deg);
+                        transform: rotate(-135deg);
+                    }
+            
+                .x_car_offer_heading .current {
+                    color: #dc3545;
+                    font-size: 18px;
+                }
+            
+                .x_car_offer_heading .list {
+                    width: 210px;
+                }
+            
+                .x_car_offer_heading i:before {
+                    margin-left: 0;
+                    margin-right: 5px;
+                }
+            
+            .current i {
+                position: relative;
+                top: -3px;
+            }
+            
+            .dpopy_li {
+                float: left;
+                width: 100% !important;
+                border-left: 0 !important;
+            }
+            
+                .dpopy_li a {
+                    padding-top: 0 !important;
+                    padding-bottom: 0 !important;
+                }
+            
+            .x_car_offer_bottom_btn {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            
+                .x_car_offer_bottom_btn li {
+                    width: 50%;
+                    float: left;
+                }
+            
+                .x_car_offer_bottom_btn ul {
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                    width: 100%;
+                    float: left;
+                }
+            
+                .x_car_offer_bottom_btn li:first-child a {
+                    float: left;
+                    width: 100%;
+                    height: 40px;
+                    line-height: 40px;
+                    text-align: center;
+                    font-size: 12px;
+                    text-transform: uppercase;
+                    background: #dc3545;
+                    color: #fff;
+                    -webkit-border-top-left-radius: 5px;
+                    -moz-border-top-left-radius: 5px;
+                    border-top-left-radius: 5px;
+                    -webkit-border-bottom-left-radius: 5px;
+                    -moz-border-bottom-left-radius: 5px;
+                    border-bottom-left-radius: 5px;
+                }
+            
+                    .x_car_offer_bottom_btn li:first-child a:hover {
+                        background: #232121;
+                    }
+            
+                .x_car_offer_bottom_btn li:last-child a {
+                    float: left;
+                    width: 100%;
+                    height: 40px;
+                    font-size: 12px;
+                    line-height: 40px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background: #111;
+                    color: #fff;
+                    -webkit-border-top-right-radius: 5px;
+                    -moz-border-top-right-radius: 5px;
+                    border-top-right-radius: 5px;
+                    -webkit-border-bottom-right-radius: 5px;
+                    -moz-border-bottom-right-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+            
+                    .x_car_offer_bottom_btn li:last-child a:hover {
+                        background: #414dce;
+                    }
+
+                    .special_offer_prodBox .special_prod_img {
+                        min-height: 175px;
+                        max-height: 175px;
+                    }
+                    
+                    .img-fluid {
+                        max-width: 100%;
+                        height: auto;
+                    }
+                    img {
+                        vertical-align: middle;
+                        border-style: none;
+                    }
+                    *, ::after, ::before {
+                        box-sizing: border-box;
+                    }
+                    .x_car_offer_img, .x_car_offer_price {
+                        text-align: center;
+                    }
+
+                    */
+/*                 
+.col-xl-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.col-lg-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+.special_offer_section {
+    background-color: #f1f1f1;
+}
+
+    .special_offer_section .x_offer_car_heading_wrapper {
+        padding-bottom: 44px;
+    }
+
+.special_offer_prodBox .special-Label {
+    text-align: center;
+    margin-top: -2px;
+    border-top: 2px solid #dc3545;
+    margin-bottom: 15px;
+}
+
+  
+
+.special_offer_prodBox .x_car_offer_img {
+    padding: 5px 10px 0;
+}
+
+.special_offer_prodBox .special-heading {
+    text-align: center;
+}
+
+.special_offer_prodBox .rental-type {
+    color: #9c9c9c;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.special_offer_prodBox .Productprice {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    color: #3455d0;
+    min-height: 50px;
+    padding: 0 15px;
+    line-height: 23px;
+}
+
+.special_offer_prodBox .special-prod-desc {
+    padding: 5px 15px;
+    text-align: center;
+}
+
+    .special_offer_prodBox .special-prod-desc p {
+        min-height: 50px;
+    }
+
+    .special_offer_prodBox .special-prod-desc p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+.special_offer_prodBox .special_offer_btn {
+    display: inline-block;
+    text-align: center;
+    background-color: #dc3545;
+    color: #fff;
+    border-radius: 5px;
+    line-height: initial;
+    height: 40px;
+    width: 120px;
+    line-height: 35px;
+    margin-left: auto;
+}
+
+     .special_offer_prodBox .special_offer_btn:focus, .special_offer_prodBox .special_offer_btn:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+
+.special-offer-footer {
+    display: flex;
+    margin: 10px 0;
+}
+
+.special_offer_prodBox .special_offer_icon {
+    width: 45px;
+    height: 40px;
+    line-height: 39px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.special_offer_prodBox .x_car_offer_bottom_btn {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.ml_15 {
+    margin-left: 15px;
+}
+
+.special_offer_icon.phone_call:hover {
+    background-color: #2fa6fd;
+    color: #fff;
+    border: 1px solid #2fa6fd;
+}
+
+.special_offer_icon.whats-app-color:hover {
+    background-color: #48c704;
+    color: #fff;
+    border: 1px solid #48c704;
+}
+
+.countdown_list {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+    .countdown_list li {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+
+.special_offer_prodBox .special_prod_img {
+    min-height: 175px;
+    max-height: 175px;
+}
+
+
+
+.special_offer_prodBox .Productprice {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    color: #3455d0;
+    min-height: 50px;
+    padding: 0 15px;
+    line-height: 23px;
+}
+
+
+
+.x_offer_tabs_wrapper .nav-tabs .nav-link {
+    border-radius: 0;
+    color: #111;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    font-family: Raleway, sans-serif;
+}
+
+.x_offer_tabs_wrapper .nav-tabs .nav-item.show .nav-link, .x_offer_tabs_wrapper .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: transparent;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Raleway, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.text-red-alert {
+    color: red;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.input {
+
+    
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: auto;
+    cursor: text;
+}
+
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+
+.close:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+label {
+    cursor: default;
+}
+
+#frmQuoteRequestForm input {
+    color: #333 !important;
+    font-size: 14px !important;
+}
+
+button, input {
+    overflow: visible;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+ */
+
+ 
